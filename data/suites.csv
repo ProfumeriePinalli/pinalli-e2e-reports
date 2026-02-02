@@ -1,4 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","8898","PDP Cart Flow: Add specific product, verify Mini Cart and Checkout","chromium","2026-02-02","passed","2026-02-02","","cart.spec.ts","",""
-"","4643","Homepage has Mega Menu","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
-"","2385","Homepage has Search Bar","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
+"","8208","PDP Cart Flow: Add specific product, verify Mini Cart and Checkout","chromium","2026-02-02","passed","2026-02-02","","cart.spec.ts","",""
+"","2048","Homepage has Mega Menu","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
+"","30035","Login with valid credentials","chromium","2026-02-02","broken","2026-02-02","","login.spec.ts","",""
+"","2103","Homepage has Search Bar","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
