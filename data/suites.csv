@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8898","PDP Cart Flow: Add specific product, verify Mini Cart and Checkout","chromium","2026-02-02","passed","2026-02-02","","cart.spec.ts","",""
+"","4643","Homepage has Mega Menu","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
+"","2385","Homepage has Search Bar","chromium","2026-02-02","passed","2026-02-02","","homepage.spec.ts","",""
