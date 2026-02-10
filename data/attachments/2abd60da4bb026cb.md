@@ -1,0 +1,183 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e9]
+      - generic [ref=e15]:
+        - text: SAN VALENTINO
+        - link "Scopri" [ref=e16] [cursor=pointer]:
+          - /url: /promozione-san-valentino
+    - generic [ref=e18]:
+      - paragraph [ref=e20]: SAN VALENTINO
+      - paragraph [ref=e21]:
+        - text: Dal
+        - strong [ref=e22]: 26 gennaio al 15 febbraio
+        - text: "tante idee regalo per San Valentino scontate su Pinalli: fino al"
+        - strong [ref=e23]: "-40"
+        - text: "% su tantissime fragranze!"
+      - link "Scopri" [ref=e25] [cursor=pointer]:
+        - /url: https://www.pinalli.it/promozione-san-valentino
+        - generic [ref=e26]:
+          - generic [ref=e27]: Scopri
+          - img [ref=e28]
+  - generic [ref=e30]:
+    - generic [ref=e32]:
+      - button [ref=e33] [cursor=pointer]:
+        - img [ref=e34]
+      - link [ref=e39] [cursor=pointer]:
+        - /url: https://www.pinalli.it
+        - img [ref=e40]
+      - generic [ref=e50]:
+        - button [ref=e54] [cursor=pointer]:
+          - img [ref=e55]
+        - button [ref=e57] [cursor=pointer]:
+          - img [ref=e59]
+    - combobox [ref=e62]:
+      - search [ref=e63]:
+        - generic [ref=e64]:
+          - textbox "Cerca una marca, un prodotto…" [ref=e66]
+          - button "search" [ref=e67] [cursor=pointer]:
+            - img [ref=e68]
+  - navigation [ref=e71]:
+    - generic [ref=e73]:
+      - link "Promo" [ref=e74] [cursor=pointer]:
+        - /url: https://www.pinalli.it/promo
+        - generic [ref=e76]: Promo
+      - link "Brand" [ref=e77] [cursor=pointer]:
+        - /url: https://www.pinalli.it/brand
+        - generic [ref=e79]: Brand
+      - link "Omaggi" [ref=e80] [cursor=pointer]:
+        - /url: https://www.pinalli.it/gwps
+        - generic [ref=e82]: Omaggi
+      - link "Make-up" [ref=e83] [cursor=pointer]:
+        - /url: https://www.pinalli.it/make-up
+        - generic [ref=e85]: Make-up
+      - link "Profumi" [ref=e86] [cursor=pointer]:
+        - /url: https://www.pinalli.it/profumi
+        - generic [ref=e88]: Profumi
+      - link "Viso" [ref=e89] [cursor=pointer]:
+        - /url: https://www.pinalli.it/trattamenti-viso
+        - generic [ref=e91]: Viso
+      - link "Capelli" [ref=e92] [cursor=pointer]:
+        - /url: https://www.pinalli.it/trattamenti-capelli
+        - generic [ref=e94]: Capelli
+      - link "Dermocosmesi" [ref=e95] [cursor=pointer]:
+        - /url: https://www.pinalli.it/dermocosmesi
+        - generic [ref=e97]: Dermocosmesi
+      - link "Corpo" [ref=e98] [cursor=pointer]:
+        - /url: https://www.pinalli.it/trattamenti-corpo
+        - generic [ref=e100]: Corpo
+      - link "Healthcare" [ref=e101] [cursor=pointer]:
+        - /url: https://www.pinalli.it/healthcare-e-altro
+        - generic [ref=e103]: Healthcare
+      - link "Idee regalo e altro" [ref=e104] [cursor=pointer]:
+        - /url: https://www.pinalli.it/idee-regalo
+        - generic [ref=e106]: Idee regalo e altro
+      - link "Uomo" [ref=e107] [cursor=pointer]:
+        - /url: https://www.pinalli.it/beauty-uomo
+        - generic [ref=e109]: Uomo
+      - link "Solari" [ref=e110] [cursor=pointer]:
+        - /url: https://www.pinalli.it/solari
+        - generic [ref=e112]: Solari
+  - navigation "breadcrumb" [ref=e114]:
+    - list [ref=e115]:
+      - listitem [ref=e116]:
+        - link "Home" [ref=e118] [cursor=pointer]:
+          - /url: https://www.pinalli.it/
+          - generic [ref=e119]: Home
+      - listitem [ref=e120]:
+        - generic [ref=e121]:
+          - img [ref=e122]
+          - generic [ref=e124]: Carrello
+  - heading "Il mio carrello" [level=2] [ref=e126]
+  - generic [ref=e157]:
+    - generic [ref=e158]:
+      - img "Image Spedizione gratuita" [ref=e159]
+      - generic [ref=e160]:
+        - paragraph [ref=e161]: Spedizione gratuita
+        - paragraph [ref=e162]: da 30€ di spesa!
+    - generic [ref=e163]:
+      - img "Image Ritiro in Beauty Store" [ref=e164]
+      - generic [ref=e165]:
+        - paragraph [ref=e166]: Ritiro in Beauty Store
+        - paragraph [ref=e167]: sempre gratuito!
+    - generic [ref=e168]:
+      - img "Image Campioncini omaggio" [ref=e169]
+      - generic [ref=e170]:
+        - paragraph [ref=e171]: Campioncini omaggio
+        - paragraph [ref=e172]: ad ogni acquisto!
+    - generic [ref=e173]:
+      - img "Image Assistenza clienti" [ref=e174]
+      - generic [ref=e175]:
+        - paragraph [ref=e176]: Assistenza clienti
+        - paragraph [ref=e177]: via mail o telefono!
+  - generic [ref=e179]:
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - generic [ref=e182]: Hai bisogno di noi?
+        - generic [ref=e183]:
+          - generic [ref=e184]:
+            - link "eshop@pinalli.it" [ref=e185] [cursor=pointer]:
+              - /url: mailto:eshop@pinalli.it
+            - link:
+              - /url: "tel: "
+            - link "Assistenza Whatsapp" [ref=e186] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+          - paragraph [ref=e187]: Da Lunedì a Venerdì
+          - paragraph [ref=e188]: 8:30 - 13:00 / 14:00 - 17:00
+      - button "Assistenza e Ordini" [ref=e191] [cursor=pointer]:
+        - generic [ref=e193]: Assistenza e Ordini
+        - img [ref=e197]
+      - button "Prodotti e Servizi" [ref=e201] [cursor=pointer]:
+        - generic [ref=e203]: Prodotti e Servizi
+        - img [ref=e207]
+      - button "Mondo Pinalli" [ref=e211] [cursor=pointer]:
+        - generic [ref=e213]: Mondo Pinalli
+        - img [ref=e217]
+      - generic [ref=e219]:
+        - generic [ref=e220]: Seguici su
+        - generic [ref=e221]:
+          - link "Logo Social" [ref=e222] [cursor=pointer]:
+            - /url: https://www.facebook.com/profumeriepinalli/
+            - img "Logo Social" [ref=e223]
+          - link "Logo Social" [ref=e224] [cursor=pointer]:
+            - /url: https://www.instagram.com/pinalli
+            - img "Logo Social" [ref=e225]
+          - link "Logo Social" [ref=e226] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@pinalli_official
+            - img "Logo Social" [ref=e227]
+    - generic [ref=e228]:
+      - link "Clicca qui per verificare se questo sito è legale" [ref=e230] [cursor=pointer]:
+        - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+        - img "Clicca qui per verificare se questo sito è legale" [ref=e231]
+      - generic [ref=e232]:
+        - img "Logo Pinalli" [ref=e234]
+        - generic [ref=e236]:
+          - img "Logo Pagamento" [ref=e237]
+          - img "Logo Pagamento" [ref=e238]
+          - img "Logo Pagamento" [ref=e239]
+          - img "Logo Pagamento" [ref=e240]
+          - img "Logo Pagamento" [ref=e241]
+          - img "Logo Pagamento" [ref=e242]
+          - img "Logo Pagamento" [ref=e243]
+          - img "Logo Pagamento" [ref=e244]
+          - img "Logo Pagamento" [ref=e245]
+          - img "Logo Pagamento" [ref=e246]
+        - generic [ref=e248]:
+          - link "Condizioni generali di vendita" [ref=e249] [cursor=pointer]:
+            - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+          - link "Condizioni generali del programma fedeltà" [ref=e250] [cursor=pointer]:
+            - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+          - link "Privacy policy" [ref=e251] [cursor=pointer]:
+            - /url: https://www.pinalli.it/pages/privacy-policy
+          - link "Cookie policy" [ref=e252] [cursor=pointer]:
+            - /url: https://www.pinalli.it/pages/cookie-policy
+          - link "Note legali" [ref=e253] [cursor=pointer]:
+            - /url: https://www.pinalli.it/pages/note-legali
+          - link "Mappa del sito" [ref=e254] [cursor=pointer]:
+            - /url: https://www.pinalli.it/sitemap
+          - link "Aggiorna Consensi Cookie" [ref=e255] [cursor=pointer]:
+            - /url: "#"
+```
