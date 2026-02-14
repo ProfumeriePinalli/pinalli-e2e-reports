@@ -1,0 +1,206 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e15]:
+          - text: SAN VALENTINO
+          - link "Scopri" [ref=e16] [cursor=pointer]:
+            - /url: /promozione-san-valentino
+      - generic [ref=e18]:
+        - paragraph [ref=e20]: SAN VALENTINO
+        - paragraph [ref=e21]:
+          - text: Dal
+          - strong [ref=e22]: 26 gennaio al 15 febbraio
+          - text: "tante idee regalo per San Valentino scontate su Pinalli: fino al"
+          - strong [ref=e23]: "-40"
+          - text: "% su tantissime fragranze!"
+        - link "Scopri" [ref=e25] [cursor=pointer]:
+          - /url: https://www.pinalli.it/promozione-san-valentino
+          - generic [ref=e26]:
+            - generic [ref=e27]: Scopri
+            - img [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e33] [cursor=pointer]:
+          - img [ref=e34]
+        - link [ref=e39] [cursor=pointer]:
+          - /url: https://www.pinalli.it
+          - img [ref=e40]
+        - generic [ref=e50]:
+          - generic [ref=e53] [cursor=pointer]: TE
+          - link [ref=e55] [cursor=pointer]:
+            - /url: https://www.pinalli.it/account/wishlist
+            - img [ref=e56]
+          - button [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+      - combobox [ref=e63]:
+        - search [ref=e64]:
+          - generic [ref=e65]:
+            - textbox "Cerca una marca, un prodotto…" [ref=e67]
+            - button "search" [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+    - navigation [ref=e72]:
+      - generic [ref=e74]:
+        - link "Promo" [ref=e75] [cursor=pointer]:
+          - /url: https://www.pinalli.it/promo
+          - generic [ref=e77]: Promo
+        - link "Brand" [ref=e78] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand
+          - generic [ref=e80]: Brand
+        - link "Omaggi" [ref=e81] [cursor=pointer]:
+          - /url: https://www.pinalli.it/gwps
+          - generic [ref=e83]: Omaggi
+        - link "Make-up" [ref=e84] [cursor=pointer]:
+          - /url: https://www.pinalli.it/make-up
+          - generic [ref=e86]: Make-up
+        - link "Profumi" [ref=e87] [cursor=pointer]:
+          - /url: https://www.pinalli.it/profumi
+          - generic [ref=e89]: Profumi
+        - link "Viso" [ref=e90] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-viso
+          - generic [ref=e92]: Viso
+        - link "Capelli" [ref=e93] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-capelli
+          - generic [ref=e95]: Capelli
+        - link "Dermocosmesi" [ref=e96] [cursor=pointer]:
+          - /url: https://www.pinalli.it/dermocosmesi
+          - generic [ref=e98]: Dermocosmesi
+        - link "Corpo" [ref=e99] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-corpo
+          - generic [ref=e101]: Corpo
+        - link "Healthcare" [ref=e102] [cursor=pointer]:
+          - /url: https://www.pinalli.it/healthcare-e-altro
+          - generic [ref=e104]: Healthcare
+        - link "Idee regalo e altro" [ref=e105] [cursor=pointer]:
+          - /url: https://www.pinalli.it/idee-regalo
+          - generic [ref=e107]: Idee regalo e altro
+        - link "Uomo" [ref=e108] [cursor=pointer]:
+          - /url: https://www.pinalli.it/beauty-uomo
+          - generic [ref=e110]: Uomo
+        - link "Solari" [ref=e111] [cursor=pointer]:
+          - /url: https://www.pinalli.it/solari
+          - generic [ref=e113]: Solari
+    - navigation "breadcrumb" [ref=e115]:
+      - list [ref=e116]:
+        - listitem [ref=e117]:
+          - link "Home" [ref=e119] [cursor=pointer]:
+            - /url: https://www.pinalli.it/
+            - generic [ref=e120]: Home
+        - listitem [ref=e121]:
+          - generic [ref=e122]:
+            - img [ref=e123]
+            - generic [ref=e125]: Wishlist
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - img [ref=e129]
+        - paragraph [ref=e134]: My Pinalli Menu
+      - generic [ref=e135]:
+        - heading "Wishlist" [level=2] [ref=e137]
+        - generic [ref=e138]:
+          - img [ref=e139]
+          - paragraph [ref=e145]: La tua wishlist è vuota!
+          - link "Inizia lo shopping" [ref=e146] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e147]: Inizia lo shopping
+    - generic [ref=e149]:
+      - generic [ref=e150]:
+        - img "Image Spedizione gratuita" [ref=e151]
+        - generic [ref=e152]:
+          - paragraph [ref=e153]: Spedizione gratuita
+          - paragraph [ref=e154]: da 30€ di spesa!
+      - generic [ref=e155]:
+        - img "Image Ritiro in Beauty Store" [ref=e156]
+        - generic [ref=e157]:
+          - paragraph [ref=e158]: Ritiro in Beauty Store
+          - paragraph [ref=e159]: sempre gratuito!
+      - generic [ref=e160]:
+        - img "Image Campioncini omaggio" [ref=e161]
+        - generic [ref=e162]:
+          - paragraph [ref=e163]: Campioncini omaggio
+          - paragraph [ref=e164]: ad ogni acquisto!
+      - generic [ref=e165]:
+        - img "Image Assistenza clienti" [ref=e166]
+        - generic [ref=e167]:
+          - paragraph [ref=e168]: Assistenza clienti
+          - paragraph [ref=e169]: via mail o telefono!
+    - generic [ref=e171]:
+      - generic [ref=e172]:
+        - generic [ref=e173]:
+          - generic [ref=e174]: Hai bisogno di noi?
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - link "eshop@pinalli.it" [ref=e177] [cursor=pointer]:
+                - /url: mailto:eshop@pinalli.it
+              - link:
+                - /url: "tel: "
+              - link "Assistenza Whatsapp" [ref=e178] [cursor=pointer]:
+                - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - paragraph [ref=e179]: Da Lunedì a Venerdì
+            - paragraph [ref=e180]: 8:30 - 13:00 / 14:00 - 17:00
+        - button "Assistenza e Ordini" [ref=e183] [cursor=pointer]:
+          - generic [ref=e185]: Assistenza e Ordini
+          - img [ref=e189]
+        - button "Prodotti e Servizi" [ref=e193] [cursor=pointer]:
+          - generic [ref=e195]: Prodotti e Servizi
+          - img [ref=e199]
+        - button "Mondo Pinalli" [ref=e203] [cursor=pointer]:
+          - generic [ref=e205]: Mondo Pinalli
+          - img [ref=e209]
+        - generic [ref=e211]:
+          - generic [ref=e212]: Seguici su
+          - generic [ref=e213]:
+            - link "Logo Social" [ref=e214] [cursor=pointer]:
+              - /url: https://www.facebook.com/profumeriepinalli/
+              - img "Logo Social" [ref=e215]
+            - link "Logo Social" [ref=e216] [cursor=pointer]:
+              - /url: https://www.instagram.com/pinalli
+              - img "Logo Social" [ref=e217]
+            - link "Logo Social" [ref=e218] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pinalli_official
+              - img "Logo Social" [ref=e219]
+      - generic [ref=e220]:
+        - link "Clicca qui per verificare se questo sito è legale" [ref=e222] [cursor=pointer]:
+          - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+          - img "Clicca qui per verificare se questo sito è legale" [ref=e223]
+        - generic [ref=e224]:
+          - img "Logo Pinalli" [ref=e226]
+          - generic [ref=e228]:
+            - img "Logo Pagamento" [ref=e229]
+            - img "Logo Pagamento" [ref=e230]
+            - img "Logo Pagamento" [ref=e231]
+            - img "Logo Pagamento" [ref=e232]
+            - img "Logo Pagamento" [ref=e233]
+            - img "Logo Pagamento" [ref=e234]
+            - img "Logo Pagamento" [ref=e235]
+            - img "Logo Pagamento" [ref=e236]
+            - img "Logo Pagamento" [ref=e237]
+            - img "Logo Pagamento" [ref=e238]
+          - generic [ref=e240]:
+            - link "Condizioni generali di vendita" [ref=e241] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+            - link "Condizioni generali del programma fedeltà" [ref=e242] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+            - link "Privacy policy" [ref=e243] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/privacy-policy
+            - link "Cookie policy" [ref=e244] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/cookie-policy
+            - link "Note legali" [ref=e245] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/note-legali
+            - link "Mappa del sito" [ref=e246] [cursor=pointer]:
+              - /url: https://www.pinalli.it/sitemap
+            - link "Aggiorna Consensi Cookie" [ref=e247] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e250]:
+        - text: "Pinalli s.r.l. Sede legale:"
+        - link "Via Nicola Piccinni n. 3, 20131 Milano (MI)" [ref=e251] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/RTAQJP6TaV7G51sZA
+        - text: "- Sede operativa:"
+        - link "Via Gandhi, 7, 29017 Fiorenzuola d'Arda PC" [ref=e252] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/45VadEpY26XRpFLT9
+        - text: "- Partita IVA / Codice Fiscale / Reg. Impr. 08836820962, i.v. R.E.A. MI 205215, Cap.Soc. € 2.400.000,00"
+  - alert [ref=e253]
+```
