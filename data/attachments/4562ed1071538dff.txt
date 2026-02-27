@@ -1,4 +1,0 @@
---- HOMEPAGE HEADER START ---
-Header not found or hidden
---- HOMEPAGE HEADER END ---
-Product out of stock, cannot debug cart
