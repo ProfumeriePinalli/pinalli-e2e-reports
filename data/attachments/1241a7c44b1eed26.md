@@ -1,0 +1,115 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link "TORNA AL SITO" [ref=e7]:
+        - /url: /
+        - generic [ref=e8]:
+          - img [ref=e9]
+          - generic [ref=e11]: TORNA AL SITO
+      - link [ref=e13]:
+        - /url: https://www.pinalli.it
+        - img [ref=e14]
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - heading "Accedi al tuo account" [level=3] [ref=e27]
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Email
+            - generic [ref=e31]:
+              - textbox [ref=e32]: teste2e-user-prod-pinalli@yopmail.com
+              - group:
+                - generic: Email
+            - paragraph [ref=e33]:
+              - generic [ref=e34]:
+                - img [ref=e35]
+                - text: Il campo non può essere vuoto
+          - generic [ref=e37]:
+            - generic [ref=e38]: Password
+            - generic [ref=e39]:
+              - textbox [ref=e40]: PasswordTestE2EUser!
+              - button "toggle password visibility" [ref=e42] [cursor=pointer]:
+                - img [ref=e43]
+              - group:
+                - generic: Password
+        - link "Password dimenticata" [ref=e46]:
+          - /url: https://www.pinalli.it/recover
+        - button "Accedi" [active] [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]: Accedi
+      - generic [ref=e49]:
+        - generic [ref=e50]:
+          - heading "Nuovo cliente?" [level=4] [ref=e51]
+          - paragraph [ref=e52]: Iscriviti ora e scopri tutti i vantaggi del nostro programma fedeltà :Pinalli People
+        - generic [ref=e53]:
+          - generic [ref=e54]:
+            - img [ref=e55]
+            - paragraph [ref=e60]: Sconto compleanno dedicato
+          - generic [ref=e61]:
+            - img [ref=e62]
+            - paragraph [ref=e71]: Offerte e sconti imperdibili
+          - generic [ref=e72]:
+            - img [ref=e73]
+            - paragraph [ref=e78]: Accesso ad eventi esclusivi
+          - generic [ref=e79]:
+            - img [ref=e80]
+            - paragraph [ref=e87]: Più sconti se accumuli punti
+        - button "Iscriviti" [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]: Iscriviti
+        - generic [ref=e90]:
+          - heading "Hai già un account ma non ti sei ancora loggato nel nuovo sito?" [level=6] [ref=e91]
+          - paragraph [ref=e92]:
+            - text: Riattiva il tuo account
+            - link "cliccando qui" [ref=e93]:
+              - /url: https://www.pinalli.it/reactivate
+    - generic [ref=e95]:
+      - generic [ref=e96]:
+        - generic [ref=e97]: Hai bisogno di noi?
+        - generic [ref=e98]:
+          - link "email" [ref=e99]:
+            - /url: mailto:eshop@pinalli.it
+            - text: eshop@pinalli.it
+          - link "phone":
+            - /url: tel:null
+          - link "phone" [ref=e100]:
+            - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - text: Assistenza Whatsapp
+          - paragraph [ref=e101]: Da Lunedì a Venerdì
+          - paragraph [ref=e102]: 8:30 - 13:00 / 14:00 - 17:00
+      - generic [ref=e103]:
+        - generic [ref=e105]:
+          - link "Condizioni generali di vendita" [ref=e106]:
+            - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+          - link "Condizioni generali del programma fedeltà" [ref=e107]:
+            - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+          - link "Privacy policy" [ref=e108]:
+            - /url: https://www.pinalli.it/pages/privacy-policy
+          - link "Cookie policy" [ref=e109]:
+            - /url: https://www.pinalli.it/pages/cookie-policy
+          - link "Note legali" [ref=e110]:
+            - /url: https://www.pinalli.it/pages/note-legali
+          - link "Mappa del sito" [ref=e111]:
+            - /url: https://www.pinalli.it/sitemap
+          - link "Aggiorna Consensi Cookie" [ref=e112]:
+            - /url: "#"
+        - generic [ref=e113]:
+          - link "Logo Social" [ref=e114]:
+            - /url: https://www.facebook.com/profumeriepinalli/
+            - img "Logo Social" [ref=e115]
+          - link "Logo Social" [ref=e116]:
+            - /url: https://www.instagram.com/pinalli
+            - img "Logo Social" [ref=e117]
+          - link "Logo Social" [ref=e118]:
+            - /url: https://www.tiktok.com/@pinalli_official
+            - img "Logo Social" [ref=e119]
+      - paragraph [ref=e122]:
+        - text: "Pinalli s.r.l. Società soggetta a Direzione e Coordinamento da Parte di INDIE 1 Srl, Sede legale:"
+        - link "Via Nicola Piccinni n. 3, 20131 Milano (MI)" [ref=e123]:
+          - /url: https://maps.app.goo.gl/RTAQJP6TaV7G51sZA
+        - text: "- Sede operativa:"
+        - link "Via Gandhi, 7, 29017 Fiorenzuola d'Arda PC" [ref=e124]:
+          - /url: https://maps.app.goo.gl/45VadEpY26XRpFLT9
+        - text: "- Partita IVA / Codice Fiscale / Reg. Impr. 08836820962, i.v. R.E.A. MI 205215, Cap.Soc. € 2.400.000,00"
+  - alert [ref=e125]
+```
