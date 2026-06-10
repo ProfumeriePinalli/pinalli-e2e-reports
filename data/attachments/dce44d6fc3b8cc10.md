@@ -1,0 +1,1429 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e13]:
+          - generic [ref=e15]:
+            - text: "That's Meraviglia: sconti fino al -40% sui migliori prodotti beauty!"
+            - link "Scopri" [ref=e16] [cursor=pointer]:
+              - /url: /promo-thats-meraviglia
+          - generic [ref=e18]:
+            - text: VAMOS A LA :P
+            - link "Scopri" [ref=e19] [cursor=pointer]:
+              - /url: /offerte-solari
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - paragraph [ref=e23]: That's Meraviglia
+          - paragraph [ref=e24]: Dal 10 maggio al 14 giugno ritorna That's Meraviglia! Sconti fino al -40% sui migliori prodotti beauty! Lo sconto si intende dal prezzo iniziale. Non cumulabile con altre promozioni, buoni/codici sconto in corso di validità
+          - link "Scopri" [ref=e26] [cursor=pointer]:
+            - /url: https://www.pinalli.it/promo-thats-meraviglia
+            - generic [ref=e27]:
+              - generic [ref=e28]: Scopri
+              - img [ref=e29]
+        - generic [ref=e31]:
+          - paragraph [ref=e33]: VAMOS A LA :P
+          - paragraph [ref=e34]: Approfitta dei super sconti su tantissimi prodotti solari corpo e viso!!
+          - link "Scopri" [ref=e36] [cursor=pointer]:
+            - /url: https://www.pinalli.it/offerte-solari
+            - generic [ref=e37]:
+              - generic [ref=e38]: Scopri
+              - img [ref=e39]
+    - generic [ref=e41]:
+      - generic [ref=e43]:
+        - button [ref=e44] [cursor=pointer]:
+          - img [ref=e45]
+        - link [ref=e50] [cursor=pointer]:
+          - /url: https://www.pinalli.it
+          - img [ref=e51]
+        - generic [ref=e61]:
+          - generic [ref=e64] [cursor=pointer]: TE
+          - link [ref=e66] [cursor=pointer]:
+            - /url: https://www.pinalli.it/account/wishlist
+            - img [ref=e67]
+          - button [ref=e69] [cursor=pointer]:
+            - img [ref=e71]
+      - combobox [ref=e74]:
+        - search [ref=e75]:
+          - generic [ref=e76]:
+            - textbox "Cerca una marca, un prodotto…" [ref=e78]
+            - button "search" [ref=e79] [cursor=pointer]:
+              - img [ref=e80]
+    - navigation [ref=e83]:
+      - generic [ref=e85]:
+        - link "Promo" [ref=e86] [cursor=pointer]:
+          - /url: https://www.pinalli.it/promo
+          - generic [ref=e88]: Promo
+        - link "Brand" [ref=e89] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand
+          - generic [ref=e91]: Brand
+        - link "Omaggi" [ref=e92] [cursor=pointer]:
+          - /url: https://www.pinalli.it/gwps
+          - generic [ref=e94]: Omaggi
+        - link "Make-up" [ref=e95] [cursor=pointer]:
+          - /url: https://www.pinalli.it/make-up
+          - generic [ref=e97]: Make-up
+        - link "Profumi" [ref=e98] [cursor=pointer]:
+          - /url: https://www.pinalli.it/profumi
+          - generic [ref=e100]: Profumi
+        - link "Viso" [ref=e101] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-viso
+          - generic [ref=e103]: Viso
+        - link "Capelli" [ref=e104] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-capelli
+          - generic [ref=e106]: Capelli
+        - link "Dermocosmesi" [ref=e107] [cursor=pointer]:
+          - /url: https://www.pinalli.it/dermocosmesi
+          - generic [ref=e109]: Dermocosmesi
+        - link "Corpo" [ref=e110] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-corpo
+          - generic [ref=e112]: Corpo
+        - link "Healthcare" [ref=e113] [cursor=pointer]:
+          - /url: https://www.pinalli.it/healthcare-e-altro
+          - generic [ref=e115]: Healthcare
+        - link "Idee regalo e altro" [ref=e116] [cursor=pointer]:
+          - /url: https://www.pinalli.it/idee-regalo
+          - generic [ref=e118]: Idee regalo e altro
+        - link "Uomo" [ref=e119] [cursor=pointer]:
+          - /url: https://www.pinalli.it/beauty-uomo
+          - generic [ref=e121]: Uomo
+        - link "Solari" [ref=e122] [cursor=pointer]:
+          - /url: https://www.pinalli.it/solari
+          - generic [ref=e124]: Solari
+    - generic [ref=e129]:
+      - link "Immagine mobile hero homepage 1" [ref=e131] [cursor=pointer]:
+        - /url: /promo-thats-meraviglia
+        - img "Immagine mobile hero homepage 1" [ref=e132]
+      - link "Immagine mobile hero homepage 2" [ref=e134] [cursor=pointer]:
+        - /url: /offerte-solari
+        - img "Immagine mobile hero homepage 2" [ref=e135]
+      - link "Immagine mobile hero homepage 3" [ref=e137] [cursor=pointer]:
+        - /url: /omaggio-yves-saint-laurent-gwp-ysl-260603
+        - img "Immagine mobile hero homepage 3" [ref=e138]
+      - link "Immagine mobile hero homepage 4" [ref=e140] [cursor=pointer]:
+        - /url: /blog/pride-2026-insieme-a-jean-paul-gaultier-per-casa-arcobaleno
+        - img "Immagine mobile hero homepage 4" [ref=e141]
+      - link "Immagine mobile hero homepage 5" [ref=e143] [cursor=pointer]:
+        - /url: /products/profumi-sauvage-elixir-1di0000000388
+        - img "Immagine mobile hero homepage 5" [ref=e144]
+    - generic [ref=e151]:
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - heading "103" [level=6] [ref=e154]
+          - generic [ref=e155]: Beauty Store
+        - img [ref=e156]
+        - generic [ref=e158]:
+          - heading "+300" [level=6] [ref=e159]
+          - generic [ref=e160]: Beauty Brand
+        - img [ref=e161]
+        - generic [ref=e163]:
+          - heading "30€" [level=6] [ref=e164]
+          - generic [ref=e165]: Free delivery
+      - generic [ref=e170]:
+        - link "CHANEL" [ref=e173] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/chanel
+          - img "CHANEL" [ref=e174]
+        - link "Dior" [ref=e177] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/dior
+          - img "Dior" [ref=e178]
+        - link "Logo brand" [ref=e181] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/veralab
+          - img "Logo brand" [ref=e182]
+        - link "Logo brand" [ref=e185] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/nabla
+          - img "Logo brand" [ref=e186]
+        - link "Logo brand" [ref=e189] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/kerastase
+          - img "Logo brand" [ref=e190]
+        - link "MAC" [ref=e193] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/mac
+          - img "MAC" [ref=e194]
+        - link "Logo brand" [ref=e197] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/mulac
+          - img "Logo brand" [ref=e198]
+        - link "Logo brand" [ref=e201] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/espressoh
+          - img "Logo brand" [ref=e202]
+        - link "Logo brand" [ref=e205] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/redken
+          - img "Logo brand" [ref=e206]
+        - link "Goovi" [ref=e209] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/goovi
+          - img "Goovi" [ref=e210]
+        - link "Logo brand" [ref=e213] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/freshly-cosmetics
+          - img "Logo brand" [ref=e214]
+        - link "Logo brand" [ref=e217] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/nars
+          - img "Logo brand" [ref=e218]
+        - link "Logo brand" [ref=e221] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/mesauda-beauty
+          - img "Logo brand" [ref=e222]
+        - link "Logo brand" [ref=e225] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/yves-saint-laurent
+          - img "Logo brand" [ref=e226]
+        - link "Logo brand" [ref=e229] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/giorgio-armani
+          - img "Logo brand" [ref=e230]
+        - link "Logo brand" [ref=e233] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/lancome
+          - img "Logo brand" [ref=e234]
+        - link "Logo brand" [ref=e237] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/vichy
+          - img "Logo brand" [ref=e238]
+        - link "Logo brand" [ref=e241] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/clinique
+          - img "Logo brand" [ref=e242]
+        - link "Logo brand" [ref=e245] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/rituals
+          - img "Logo brand" [ref=e246]
+        - link "Logo brand" [ref=e249] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/cerave
+          - img "Logo brand" [ref=e250]
+        - link "Logo brand" [ref=e253] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/essence
+          - img "Logo brand" [ref=e254]
+        - link "Logo brand" [ref=e257] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/diego-dalla-palma
+          - img "Logo brand" [ref=e258]
+        - link "Logo brand" [ref=e261] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/acqua-di-parma
+          - img "Logo brand" [ref=e262]
+        - link "Logo brand" [ref=e265] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand/tonsor1951
+          - img "Logo brand" [ref=e266]
+      - generic [ref=e272]:
+        - link "promotional card Promozioni Offerte da non perdere!" [ref=e275] [cursor=pointer]:
+          - /url: /promo
+          - img "promotional card" [ref=e277]
+          - generic [ref=e278]:
+            - paragraph [ref=e279]: Promozioni
+            - paragraph [ref=e280]: Offerte da non perdere!
+        - link "promotional card :P People Programma fedeltà Pinalli" [ref=e283] [cursor=pointer]:
+          - /url: /programma-fedelta
+          - img "promotional card" [ref=e285]
+          - generic [ref=e286]:
+            - paragraph [ref=e287]: :P People
+            - paragraph [ref=e288]: Programma fedeltà Pinalli
+        - link "promotional card Omaggi Regali da non perdere" [ref=e291] [cursor=pointer]:
+          - /url: /gwps
+          - img "promotional card" [ref=e293]
+          - generic [ref=e294]:
+            - paragraph [ref=e295]: Omaggi
+            - paragraph [ref=e296]: Regali da non perdere
+        - link "promotional card Skincare Coreana Scopri la beauty routine" [ref=e299] [cursor=pointer]:
+          - /url: /trattamenti-viso/skincare-coreana
+          - img "promotional card" [ref=e301]
+          - generic [ref=e302]:
+            - paragraph [ref=e303]: Skincare Coreana
+            - paragraph [ref=e304]: Scopri la beauty routine
+        - link "promotional card Nabla Scopri il brand" [ref=e307] [cursor=pointer]:
+          - /url: /brand/nabla
+          - img "promotional card" [ref=e309]
+          - generic [ref=e310]:
+            - paragraph [ref=e311]: Nabla
+            - paragraph [ref=e312]: Scopri il brand
+        - link "promotional card Kerastase Scopri il brand" [ref=e315] [cursor=pointer]:
+          - /url: /brand/kerastase
+          - img "promotional card" [ref=e317]
+          - generic [ref=e318]:
+            - paragraph [ref=e319]: Kerastase
+            - paragraph [ref=e320]: Scopri il brand
+        - link "promotional card Mulac Scopri il brand" [ref=e323] [cursor=pointer]:
+          - /url: /brand/mulac
+          - img "promotional card" [ref=e325]
+          - generic [ref=e326]:
+            - paragraph [ref=e327]: Mulac
+            - paragraph [ref=e328]: Scopri il brand
+        - link "promotional card Veralab Scopri il brand" [ref=e331] [cursor=pointer]:
+          - /url: /brand/veralab
+          - img "promotional card" [ref=e333]
+          - generic [ref=e334]:
+            - paragraph [ref=e335]: Veralab
+            - paragraph [ref=e336]: Scopri il brand
+        - link "promotional card Profumi Arabi Scopri i profumi arabi più iconici" [ref=e339] [cursor=pointer]:
+          - /url: /profumi/profumi-arabi
+          - img "promotional card" [ref=e341]
+          - generic [ref=e342]:
+            - paragraph [ref=e343]: Profumi Arabi
+            - paragraph [ref=e344]: Scopri i profumi arabi più iconici
+      - generic [ref=e345]:
+        - generic [ref=e346]:
+          - heading "Best sellers" [level=2] [ref=e347]
+          - heading "Make Up" [level=3] [ref=e348]
+        - generic [ref=e349]:
+          - link "Scopri tutti" [ref=e350] [cursor=pointer]:
+            - /url: https://www.pinalli.it/make-up
+            - generic [ref=e351]:
+              - generic [ref=e352]: Scopri tutti
+              - img [ref=e353]
+          - tablist "category tabs" [ref=e357]:
+            - tab "Make Up" [selected] [ref=e358] [cursor=pointer]
+            - tab "Capelli" [ref=e359] [cursor=pointer]
+            - tab "Viso" [ref=e360] [cursor=pointer]
+            - tab "Profumi" [ref=e361] [cursor=pointer]
+        - tabpanel [ref=e363]:
+          - generic [ref=e368]:
+            - link "-25% Cupid’s Arrow Longwear Stylo + colori Nabla Occhi Cupid’s Arrow Longwear Stylo Eyeliner 14,63€ 19,50€ Seleziona" [ref=e370] [cursor=pointer]:
+              - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61002
+              - generic [ref=e371]:
+                - generic [ref=e372]:
+                  - generic [ref=e375]: "-25%"
+                  - button [ref=e376]:
+                    - img [ref=e377]
+                - img "Cupid’s Arrow Longwear Stylo" [ref=e380]
+                - generic [ref=e381]:
+                  - generic [ref=e387]: + colori
+                  - generic [ref=e388]:
+                    - generic [ref=e389]:
+                      - generic [ref=e390]: Nabla
+                      - generic [ref=e391]:
+                        - generic [ref=e392]: Occhi
+                        - generic [ref=e393]: Cupid’s Arrow Longwear Stylo
+                        - generic [ref=e394]: Eyeliner
+                    - generic [ref=e396]:
+                      - generic [ref=e397]: 14,63€
+                      - generic [ref=e398]: 19,50€
+                - button "Seleziona" [ref=e400]:
+                  - generic [ref=e401]: Seleziona
+            - link "-25% MyToyBoy Mascara Diego Dalla Palma Occhi MyToyBoy Mascara Mascara 22,85€ 30,47€ Aggiungi al carrello" [ref=e403] [cursor=pointer]:
+              - /url: /products/make-up-mytoyboy-mascara-1dp831y70151
+              - generic [ref=e404]:
+                - generic [ref=e405]:
+                  - generic [ref=e408]: "-25%"
+                  - button [ref=e409]:
+                    - img [ref=e410]
+                - img "MyToyBoy Mascara" [ref=e413]
+                - generic [ref=e416]:
+                  - generic [ref=e417]:
+                    - generic [ref=e418]: Diego Dalla Palma
+                    - generic [ref=e419]:
+                      - generic [ref=e420]: Occhi
+                      - generic [ref=e421]: MyToyBoy Mascara
+                      - generic [ref=e422]: Mascara
+                  - generic [ref=e424]:
+                    - generic [ref=e425]: 22,85€
+                    - generic [ref=e426]: 30,47€
+                - button "Aggiungi al carrello" [ref=e429]:
+                  - generic [ref=e430]: Aggiungi al carrello
+            - link "-25% Close-Up Smoothing Pressed Powder + colori Nabla Viso Close-Up Smoothing Pressed Powder Cipria 20,25€ 27,00€ Seleziona" [ref=e432] [cursor=pointer]:
+              - /url: /products/make-up-close-up-smoothing-pressed-powder-2na887v51001
+              - generic [ref=e433]:
+                - generic [ref=e434]:
+                  - generic [ref=e437]: "-25%"
+                  - button [ref=e438]:
+                    - img [ref=e439]
+                - img "Close-Up Smoothing Pressed Powder" [ref=e442]
+                - generic [ref=e443]:
+                  - generic [ref=e449]: + colori
+                  - generic [ref=e450]:
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: Nabla
+                      - generic [ref=e453]:
+                        - generic [ref=e454]: Viso
+                        - generic [ref=e455]: Close-Up Smoothing Pressed Powder
+                        - generic [ref=e456]: Cipria
+                    - generic [ref=e458]:
+                      - generic [ref=e459]: 20,25€
+                      - generic [ref=e460]: 27,00€
+                - button "Seleziona" [ref=e462]:
+                  - generic [ref=e463]: Seleziona
+            - link "-30% Lash Clash Mascara + colori Omaggio Yves Saint Laurent Occhi Lash Clash Mascara Mascara 31,50€ 45,00€ Seleziona" [ref=e465] [cursor=pointer]:
+              - /url: /products/make-up-lash-clash-mascara-1ys808y70008
+              - generic [ref=e466]:
+                - generic [ref=e467]:
+                  - generic [ref=e470]: "-30%"
+                  - button [ref=e471]:
+                    - img [ref=e472]
+                - img "Lash Clash Mascara" [ref=e475]
+                - generic [ref=e476]:
+                  - generic [ref=e482]: + colori
+                  - generic [ref=e485]: Omaggio
+                  - generic [ref=e486]:
+                    - generic [ref=e487]:
+                      - generic [ref=e488]: Yves Saint Laurent
+                      - generic [ref=e489]:
+                        - generic [ref=e490]: Occhi
+                        - generic [ref=e491]: Lash Clash Mascara
+                        - generic [ref=e492]: Mascara
+                    - generic [ref=e494]:
+                      - generic [ref=e495]: 31,50€
+                      - generic [ref=e496]: 45,00€
+                - button "Seleziona" [ref=e498]:
+                  - generic [ref=e499]: Seleziona
+            - link "-25% MySelfToy Mascara Diego Dalla Palma Occhi MySelfToy Mascara Mascara 22,85€ 30,47€ Aggiungi al carrello" [ref=e501] [cursor=pointer]:
+              - /url: /products/make-up-myselftoy-mascara-1dp0000000201
+              - generic [ref=e502]:
+                - generic [ref=e503]:
+                  - generic [ref=e506]: "-25%"
+                  - button [ref=e507]:
+                    - img [ref=e508]
+                - img "MySelfToy Mascara" [ref=e511]
+                - generic [ref=e514]:
+                  - generic [ref=e515]:
+                    - generic [ref=e516]: Diego Dalla Palma
+                    - generic [ref=e517]:
+                      - generic [ref=e518]: Occhi
+                      - generic [ref=e519]: MySelfToy Mascara
+                      - generic [ref=e520]: Mascara
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: 22,85€
+                    - generic [ref=e524]: 30,47€
+                - button "Aggiungi al carrello" [ref=e527]:
+                  - generic [ref=e528]: Aggiungi al carrello
+            - link "-10% LASH PRINCESS false LASH effect mascara + colori essence Occhi LASH PRINCESS false LASH effect mascara Mascara 3,80€ 4,22€ Seleziona" [ref=e530] [cursor=pointer]:
+              - /url: /products/make-up-lash-princess-false-lash-effect-mascara-1ec0000000005
+              - generic [ref=e531]:
+                - generic [ref=e532]:
+                  - generic [ref=e535]: "-10%"
+                  - button [ref=e536]:
+                    - img [ref=e537]
+                - img "LASH PRINCESS false LASH effect mascara" [ref=e540]
+                - generic [ref=e541]:
+                  - generic [ref=e547]: + colori
+                  - generic [ref=e548]:
+                    - generic [ref=e549]:
+                      - generic [ref=e550]: essence
+                      - generic [ref=e551]:
+                        - generic [ref=e552]: Occhi
+                        - generic [ref=e553]: LASH PRINCESS false LASH effect mascara
+                        - generic [ref=e554]: Mascara
+                    - generic [ref=e556]:
+                      - generic [ref=e557]: 3,80€
+                      - generic [ref=e558]: 4,22€
+                - button "Seleziona" [ref=e560]:
+                  - generic [ref=e561]: Seleziona
+            - link "-10% LONG-LASTING matita occhi + colori essence Occhi LONG-LASTING matita occhi Matita occhi 1,70€ 1,89€ Seleziona" [ref=e563] [cursor=pointer]:
+              - /url: /products/make-up-long-lasting-matita-occhi-1ec0000000014
+              - generic [ref=e564]:
+                - generic [ref=e565]:
+                  - generic [ref=e568]: "-10%"
+                  - button [ref=e569]:
+                    - img [ref=e570]
+                - img "LONG-LASTING matita occhi" [ref=e573]
+                - generic [ref=e574]:
+                  - generic [ref=e580]: + colori
+                  - generic [ref=e581]:
+                    - generic [ref=e582]:
+                      - generic [ref=e583]: essence
+                      - generic [ref=e584]:
+                        - generic [ref=e585]: Occhi
+                        - generic [ref=e586]: LONG-LASTING matita occhi
+                        - generic [ref=e587]: Matita occhi
+                    - generic [ref=e589]:
+                      - generic [ref=e590]: 1,70€
+                      - generic [ref=e591]: 1,89€
+                - button "Seleziona" [ref=e593]:
+                  - generic [ref=e594]: Seleziona
+            - link "-25% Freckle Maker Nabla Viso Freckle Maker Correttori 14,63€ 19,50€ Aggiungi al carrello" [ref=e596] [cursor=pointer]:
+              - /url: /products/make-up-freckle-maker-2na887v00001
+              - generic [ref=e597]:
+                - generic [ref=e598]:
+                  - generic [ref=e601]: "-25%"
+                  - button [ref=e602]:
+                    - img [ref=e603]
+                - img "Freckle Maker" [ref=e606]
+                - generic [ref=e609]:
+                  - generic [ref=e610]:
+                    - generic [ref=e611]: Nabla
+                    - generic [ref=e612]:
+                      - generic [ref=e613]: Viso
+                      - generic [ref=e614]: Freckle Maker
+                      - generic [ref=e615]: Correttori
+                  - generic [ref=e617]:
+                    - generic [ref=e618]: 14,63€
+                    - generic [ref=e619]: 19,50€
+                - button "Aggiungi al carrello" [ref=e622]:
+                  - generic [ref=e623]: Aggiungi al carrello
+            - link "-25% Iron Lash & Brow Diego Dalla Palma Occhi Iron Lash & Brow Gel e mascara Sopracciglia 32,65€ 43,53€ Aggiungi al carrello" [ref=e625] [cursor=pointer]:
+              - /url: /products/make-up-iron-lash-brow-1dpmmmy300001
+              - generic [ref=e626]:
+                - generic [ref=e627]:
+                  - generic [ref=e630]: "-25%"
+                  - button [ref=e631]:
+                    - img [ref=e632]
+                - img "Iron Lash & Brow" [ref=e635]
+                - generic [ref=e638]:
+                  - generic [ref=e639]:
+                    - generic [ref=e640]: Diego Dalla Palma
+                    - generic [ref=e641]:
+                      - generic [ref=e642]: Occhi
+                      - generic [ref=e643]: Iron Lash & Brow
+                      - generic [ref=e644]: Gel e mascara Sopracciglia
+                  - generic [ref=e646]:
+                    - generic [ref=e647]: 32,65€
+                    - generic [ref=e648]: 43,53€
+                - button "Aggiungi al carrello" [ref=e651]:
+                  - generic [ref=e652]: Aggiungi al carrello
+            - link "-25% Skin Realist Tinted Balm + colori Nabla Viso Skin Realist Tinted Balm BB cream 24,00€ 32,00€ Seleziona" [ref=e654] [cursor=pointer]:
+              - /url: /products/make-up-skin-realist-tinted-balm-2na887v11002
+              - generic [ref=e655]:
+                - generic [ref=e656]:
+                  - generic [ref=e659]: "-25%"
+                  - button [ref=e660]:
+                    - img [ref=e661]
+                - img "Skin Realist Tinted Balm" [ref=e664]
+                - generic [ref=e665]:
+                  - generic [ref=e671]: + colori
+                  - generic [ref=e672]:
+                    - generic [ref=e673]:
+                      - generic [ref=e674]: Nabla
+                      - generic [ref=e675]:
+                        - generic [ref=e676]: Viso
+                        - generic [ref=e677]: Skin Realist Tinted Balm
+                        - generic [ref=e678]: BB cream
+                    - generic [ref=e680]:
+                      - generic [ref=e681]: 24,00€
+                      - generic [ref=e682]: 32,00€
+                - button "Seleziona" [ref=e684]:
+                  - generic [ref=e685]: Seleziona
+            - link "-25% POUDRE UNIVERSELLE LIBRE + colori CHANEL POUDRE UNIVERSELLE LIBRE CIPRIA SATINATA TRASPARENTE PER IL VISO 45,00€ 60,00€ Seleziona" [ref=e687] [cursor=pointer]:
+              - /url: /products/make-up-poudre-universelle-libre-1ch807v40020
+              - generic [ref=e688]:
+                - generic [ref=e689]:
+                  - generic [ref=e692]: "-25%"
+                  - button [ref=e693]:
+                    - img [ref=e694]
+                - img "POUDRE UNIVERSELLE LIBRE" [ref=e697]
+                - generic [ref=e698]:
+                  - generic [ref=e704]: + colori
+                  - generic [ref=e705]:
+                    - generic [ref=e706]:
+                      - generic [ref=e707]: CHANEL
+                      - generic [ref=e708]:
+                        - generic [ref=e709]: POUDRE UNIVERSELLE LIBRE
+                        - generic [ref=e710]: CIPRIA SATINATA TRASPARENTE PER IL VISO
+                    - generic [ref=e712]:
+                      - generic [ref=e713]: 45,00€
+                      - generic [ref=e714]: 60,00€
+                - button "Seleziona" [ref=e716]:
+                  - generic [ref=e717]: Seleziona
+            - link "-10% spugnetta fondotinta e cipria essence Viso spugnetta fondotinta e cipria Spugnette trucco 3,40€ 3,78€ Aggiungi al carrello" [ref=e719] [cursor=pointer]:
+              - /url: /products/make-up-spugnetta-fondotinta-e-cipria-1ec0000000120
+              - generic [ref=e720]:
+                - generic [ref=e721]:
+                  - generic [ref=e724]: "-10%"
+                  - button [ref=e725]:
+                    - img [ref=e726]
+                - img "spugnetta fondotinta e cipria" [ref=e729]
+                - generic [ref=e732]:
+                  - generic [ref=e733]:
+                    - generic [ref=e734]: essence
+                    - generic [ref=e735]:
+                      - generic [ref=e736]: Viso
+                      - generic [ref=e737]: spugnetta fondotinta e cipria
+                      - generic [ref=e738]: Spugnette trucco
+                  - generic [ref=e740]:
+                    - generic [ref=e741]: 3,40€
+                    - generic [ref=e742]: 3,78€
+                - button "Aggiungi al carrello" [ref=e745]:
+                  - generic [ref=e746]: Aggiungi al carrello
+            - link "-26% Cera Sopracciglia P Pecchi LA PECCHI BY ROUGJ Sopracciglia Cera Sopracciglia P Pecchi Gel e mascara Sopracciglia 16,90€ 22,90€ Aggiungi al carrello" [ref=e748] [cursor=pointer]:
+              - /url: /products/make-up-cera-sopracciglia-p-pecchi-1wp0000000001
+              - generic [ref=e749]:
+                - generic [ref=e750]:
+                  - generic [ref=e753]: "-26%"
+                  - button [ref=e754]:
+                    - img [ref=e755]
+                - img "Cera Sopracciglia P Pecchi" [ref=e758]
+                - generic [ref=e761]:
+                  - generic [ref=e762]:
+                    - generic [ref=e763]: LA PECCHI BY ROUGJ
+                    - generic [ref=e764]:
+                      - generic [ref=e765]: Sopracciglia
+                      - generic [ref=e766]: Cera Sopracciglia P Pecchi
+                      - generic [ref=e767]: Gel e mascara Sopracciglia
+                  - generic [ref=e769]:
+                    - generic [ref=e770]: 16,90€
+                    - generic [ref=e771]: 22,90€
+                - button "Aggiungi al carrello" [ref=e774]:
+                  - generic [ref=e775]: Aggiungi al carrello
+            - link "-25% Close-Up Blotting Pressed Powder Nabla Viso Close-Up Blotting Pressed Powder Cipria 20,25€ 27,00€ Aggiungi al carrello" [ref=e777] [cursor=pointer]:
+              - /url: /products/make-up-close-up-blotting-pressed-powder-2na0000000013
+              - generic [ref=e778]:
+                - generic [ref=e779]:
+                  - generic [ref=e782]: "-25%"
+                  - button [ref=e783]:
+                    - img [ref=e784]
+                - img "Close-Up Blotting Pressed Powder" [ref=e787]
+                - generic [ref=e790]:
+                  - generic [ref=e791]:
+                    - generic [ref=e792]: Nabla
+                    - generic [ref=e793]:
+                      - generic [ref=e794]: Viso
+                      - generic [ref=e795]: Close-Up Blotting Pressed Powder
+                      - generic [ref=e796]: Cipria
+                  - generic [ref=e798]:
+                    - generic [ref=e799]: 20,25€
+                    - generic [ref=e800]: 27,00€
+                - button "Aggiungi al carrello" [ref=e803]:
+                  - generic [ref=e804]: Aggiungi al carrello
+            - link "-25% Almost Lipstick + colori Clinique Rossetti Almost Lipstick Rossetti 22,68€ 30,24€ Seleziona" [ref=e806] [cursor=pointer]:
+              - /url: /products/make-up-almost-lipstick-1cq0000000025
+              - generic [ref=e807]:
+                - generic [ref=e808]:
+                  - generic [ref=e811]: "-25%"
+                  - button [ref=e812]:
+                    - img [ref=e813]
+                - img "Almost Lipstick" [ref=e816]
+                - generic [ref=e817]:
+                  - generic [ref=e823]: + colori
+                  - generic [ref=e824]:
+                    - generic [ref=e825]:
+                      - generic [ref=e826]: Clinique
+                      - generic [ref=e827]:
+                        - generic [ref=e828]: Rossetti
+                        - generic [ref=e829]: Almost Lipstick
+                        - generic [ref=e830]: Rossetti
+                    - generic [ref=e832]:
+                      - generic [ref=e833]: 22,68€
+                      - generic [ref=e834]: 30,24€
+                - button "Seleziona" [ref=e836]:
+                  - generic [ref=e837]: Seleziona
+            - link "-10% FIX IT LIKE A PRO gel fissante sopracciglia essence Occhi FIX IT LIKE A PRO gel fissante sopracciglia Gel e mascara Sopracciglia 3,40€ 3,78€ Aggiungi al carrello" [ref=e839] [cursor=pointer]:
+              - /url: /products/make-up-fix-it-like-a-pro-gel-fissante-sopracciglia-1ec0000000034
+              - generic [ref=e840]:
+                - generic [ref=e841]:
+                  - generic [ref=e844]: "-10%"
+                  - button [ref=e845]:
+                    - img [ref=e846]
+                - img "FIX IT LIKE A PRO gel fissante sopracciglia" [ref=e849]
+                - generic [ref=e852]:
+                  - generic [ref=e853]:
+                    - generic [ref=e854]: essence
+                    - generic [ref=e855]:
+                      - generic [ref=e856]: Occhi
+                      - generic [ref=e857]: FIX IT LIKE A PRO gel fissante sopracciglia
+                      - generic [ref=e858]: Gel e mascara Sopracciglia
+                  - generic [ref=e860]:
+                    - generic [ref=e861]: 3,40€
+                    - generic [ref=e862]: 3,78€
+                - button "Aggiungi al carrello" [ref=e865]:
+                  - generic [ref=e866]: Aggiungi al carrello
+            - link "-10% LASH PRINCESS sculpted volume mascara essence Occhi LASH PRINCESS sculpted volume mascara Mascara 3,80€ 4,22€ Aggiungi al carrello" [ref=e868] [cursor=pointer]:
+              - /url: /products/make-up-lash-princess-sculpted-volume-mascara-1ec0000000007
+              - generic [ref=e869]:
+                - generic [ref=e870]:
+                  - generic [ref=e873]: "-10%"
+                  - button [ref=e874]:
+                    - img [ref=e875]
+                - img "LASH PRINCESS sculpted volume mascara" [ref=e878]
+                - generic [ref=e881]:
+                  - generic [ref=e882]:
+                    - generic [ref=e883]: essence
+                    - generic [ref=e884]:
+                      - generic [ref=e885]: Occhi
+                      - generic [ref=e886]: LASH PRINCESS sculpted volume mascara
+                      - generic [ref=e887]: Mascara
+                  - generic [ref=e889]:
+                    - generic [ref=e890]: 3,80€
+                    - generic [ref=e891]: 4,22€
+                - button "Aggiungi al carrello" [ref=e894]:
+                  - generic [ref=e895]: Aggiungi al carrello
+            - link "-10% ALL ABOUT MATT! cipria compatta trasparente essence Viso ALL ABOUT MATT! cipria compatta trasparente Cipria 3,40€ 3,78€ Aggiungi al carrello" [ref=e897] [cursor=pointer]:
+              - /url: /products/make-up-all-about-matt-cipria-compatta-trasparente-1ec0000000094
+              - generic [ref=e898]:
+                - generic [ref=e899]:
+                  - generic [ref=e902]: "-10%"
+                  - button [ref=e903]:
+                    - img [ref=e904]
+                - img "ALL ABOUT MATT! cipria compatta trasparente" [ref=e907]
+                - generic [ref=e910]:
+                  - generic [ref=e911]:
+                    - generic [ref=e912]: essence
+                    - generic [ref=e913]:
+                      - generic [ref=e914]: Viso
+                      - generic [ref=e915]: ALL ABOUT MATT! cipria compatta trasparente
+                      - generic [ref=e916]: Cipria
+                  - generic [ref=e918]:
+                    - generic [ref=e919]: 3,40€
+                    - generic [ref=e920]: 3,78€
+                - button "Aggiungi al carrello" [ref=e923]:
+                  - generic [ref=e924]: Aggiungi al carrello
+            - link "-30% Esclusiva Pinalli Flama Libre REBEYA Occhi Flama Libre Mascara 20,93€ 29,90€ Aggiungi al carrello" [ref=e926] [cursor=pointer]:
+              - /url: /products/make-up-flama-libre-2rb0000000001
+              - generic [ref=e927]:
+                - generic [ref=e928]:
+                  - generic [ref=e929]:
+                    - generic [ref=e931]: "-30%"
+                    - generic [ref=e932]: Esclusiva Pinalli
+                  - button [ref=e933]:
+                    - img [ref=e934]
+                - img "Flama Libre" [ref=e937]
+                - generic [ref=e940]:
+                  - generic [ref=e941]:
+                    - generic [ref=e942]: REBEYA
+                    - generic [ref=e943]:
+                      - generic [ref=e944]: Occhi
+                      - generic [ref=e945]: Flama Libre
+                      - generic [ref=e946]: Mascara
+                  - generic [ref=e948]:
+                    - generic [ref=e949]: 20,93€
+                    - generic [ref=e950]: 29,90€
+                - button "Aggiungi al carrello" [ref=e953]:
+                  - generic [ref=e954]: Aggiungi al carrello
+            - link "-10% DUO SHARPENER temperino duo essence Occhi DUO SHARPENER temperino duo Altro accessori make up 1,20€ 1,33€ Aggiungi al carrello" [ref=e956] [cursor=pointer]:
+              - /url: /products/make-up-duo-sharpener-temperino-duo-1ec0000000037
+              - generic [ref=e957]:
+                - generic [ref=e958]:
+                  - generic [ref=e961]: "-10%"
+                  - button [ref=e962]:
+                    - img [ref=e963]
+                - img "DUO SHARPENER temperino duo" [ref=e966]
+                - generic [ref=e969]:
+                  - generic [ref=e970]:
+                    - generic [ref=e971]: essence
+                    - generic [ref=e972]:
+                      - generic [ref=e973]: Occhi
+                      - generic [ref=e974]: DUO SHARPENER temperino duo
+                      - generic [ref=e975]: Altro accessori make up
+                  - generic [ref=e977]:
+                    - generic [ref=e978]: 1,20€
+                    - generic [ref=e979]: 1,33€
+                - button "Aggiungi al carrello" [ref=e982]:
+                  - generic [ref=e983]: Aggiungi al carrello
+      - generic [ref=e987]:
+        - heading "Da non perdere" [level=2] [ref=e988]
+        - generic [ref=e989]:
+          - generic [ref=e992]:
+            - link "Immagine slider 1" [ref=e994] [cursor=pointer]:
+              - /url: /products/make-up-overline-tea-lip-liner-1ex0000000070
+              - img "Immagine slider 1" [ref=e995]
+            - link "Immagine slider 2" [ref=e997] [cursor=pointer]:
+              - /url: /omaggio-nuxe-gwp-nux-260603
+              - img "Immagine slider 2" [ref=e998]
+            - link "Immagine slider 3" [ref=e1000] [cursor=pointer]:
+              - /url: /omaggio-shiseido-gwp-shi-260603
+              - img "Immagine slider 3" [ref=e1001]
+            - link "Immagine slider 4" [ref=e1003] [cursor=pointer]:
+              - /url: /omaggio-guerlain-gwp-gue-260603
+              - img "Immagine slider 4" [ref=e1004]
+            - link "Immagine slider 5" [ref=e1006] [cursor=pointer]:
+              - /url: /omaggio-avene-gwp-av-260603
+              - img "Immagine slider 5" [ref=e1007]
+          - generic [ref=e1016]:
+            - link "Immagine slider 1" [ref=e1018] [cursor=pointer]:
+              - /url: /products/make-up-shape-plump-lip-kit-1me0000000190
+              - img "Immagine slider 1" [ref=e1019]
+            - link "Immagine slider 2" [ref=e1021] [cursor=pointer]:
+              - /url: /omaggio-mulac-gwp-mu-260603
+              - img "Immagine slider 2" [ref=e1022]
+            - link "Immagine slider 3" [ref=e1024] [cursor=pointer]:
+              - /url: /omaggio-dr-jart-gwp-drj-260527
+              - img "Immagine slider 3" [ref=e1025]
+            - link "Immagine slider 4" [ref=e1027] [cursor=pointer]:
+              - /url: /products/solari-sun-care-travel-kit-2fd0000000012
+              - img "Immagine slider 4" [ref=e1028]
+      - generic [ref=e1034]:
+        - heading "Migliori offerte" [level=2] [ref=e1035]
+        - generic [ref=e1038]:
+          - link "-30% Double Serum Traitement Complet Jeunesse Intensif + formati Clarins Double Serum Double Serum Traitement Complet Jeunesse Intensif Trattamento antietà pelli mature 123,95€ 177,07€ Seleziona" [ref=e1040] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-double-serum-traitement-complet-jeunesse-intensif-1cl0000000341
+            - generic [ref=e1041]:
+              - generic [ref=e1042]:
+                - generic [ref=e1045]: "-30%"
+                - button [ref=e1046]:
+                  - img [ref=e1047]
+              - img "Double Serum Traitement Complet Jeunesse Intensif" [ref=e1050]
+              - generic [ref=e1051]:
+                - generic [ref=e1053]: + formati
+                - generic [ref=e1054]:
+                  - generic [ref=e1055]:
+                    - generic [ref=e1056]: Clarins
+                    - generic [ref=e1057]:
+                      - generic [ref=e1058]: Double Serum
+                      - generic [ref=e1059]: Double Serum Traitement Complet Jeunesse Intensif
+                      - generic [ref=e1060]: Trattamento antietà pelli mature
+                  - generic [ref=e1062]:
+                    - generic [ref=e1063]: 123,95€
+                    - generic [ref=e1064]: 177,07€
+              - button "Seleziona" [ref=e1066]:
+                - generic [ref=e1067]: Seleziona
+          - link "-35% Crema Contorno Occhi Riparatrice CERAVE Idratanti Crema Contorno Occhi Riparatrice Contorno occhi 12,26€ 18,86€ Aggiungi al carrello" [ref=e1069] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-crema-contorno-occhi-riparatrice-1cv0000000001
+            - generic [ref=e1070]:
+              - generic [ref=e1071]:
+                - generic [ref=e1074]: "-35%"
+                - button [ref=e1075]:
+                  - img [ref=e1076]
+              - img "Crema Contorno Occhi Riparatrice" [ref=e1079]
+              - generic [ref=e1082]:
+                - generic [ref=e1083]:
+                  - generic [ref=e1084]: CERAVE
+                  - generic [ref=e1085]:
+                    - generic [ref=e1086]: Idratanti
+                    - generic [ref=e1087]: Crema Contorno Occhi Riparatrice
+                    - generic [ref=e1088]: Contorno occhi
+                - generic [ref=e1090]:
+                  - generic [ref=e1091]: 12,26€
+                  - generic [ref=e1092]: 18,86€
+              - button "Aggiungi al carrello" [ref=e1095]:
+                - generic [ref=e1096]: Aggiungi al carrello
+          - link "-30% 8H Magic Night Serum + formati Kérastase Nutritive 8H Magic Night Serum Siero capelli 39,82€ 56,89€ Seleziona" [ref=e1098] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-8h-magic-night-serum-1ke035nu40002
+            - generic [ref=e1099]:
+              - generic [ref=e1100]:
+                - generic [ref=e1103]: "-30%"
+                - button [ref=e1104]:
+                  - img [ref=e1105]
+              - img "8H Magic Night Serum" [ref=e1108]
+              - generic [ref=e1109]:
+                - generic [ref=e1111]: + formati
+                - generic [ref=e1112]:
+                  - generic [ref=e1113]:
+                    - generic [ref=e1114]: Kérastase
+                    - generic [ref=e1115]:
+                      - generic [ref=e1116]: Nutritive
+                      - generic [ref=e1117]: 8H Magic Night Serum
+                      - generic [ref=e1118]: Siero capelli
+                  - generic [ref=e1120]:
+                    - generic [ref=e1121]: 39,82€
+                    - generic [ref=e1122]: 56,89€
+              - button "Seleziona" [ref=e1124]:
+                - generic [ref=e1125]: Seleziona
+          - link "-25% Cupid’s Arrow Longwear Stylo + colori Nabla Occhi Cupid’s Arrow Longwear Stylo Eyeliner 14,63€ 19,50€ Seleziona" [ref=e1127] [cursor=pointer]:
+            - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61002
+            - generic [ref=e1128]:
+              - generic [ref=e1129]:
+                - generic [ref=e1132]: "-25%"
+                - button [ref=e1133]:
+                  - img [ref=e1134]
+              - img "Cupid’s Arrow Longwear Stylo" [ref=e1137]
+              - generic [ref=e1138]:
+                - generic [ref=e1144]: + colori
+                - generic [ref=e1145]:
+                  - generic [ref=e1146]:
+                    - generic [ref=e1147]: Nabla
+                    - generic [ref=e1148]:
+                      - generic [ref=e1149]: Occhi
+                      - generic [ref=e1150]: Cupid’s Arrow Longwear Stylo
+                      - generic [ref=e1151]: Eyeliner
+                  - generic [ref=e1153]:
+                    - generic [ref=e1154]: 14,63€
+                    - generic [ref=e1155]: 19,50€
+              - button "Seleziona" [ref=e1157]:
+                - generic [ref=e1158]: Seleziona
+          - link "-30% Sérum Anti-Chute Fortifiant + formati Kérastase Genesis Sérum Anti-Chute Fortifiant Siero capelli 39,82€ 56,89€ Seleziona" [ref=e1160] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-serum-anti-chute-fortifiant-1ke035ge40001
+            - generic [ref=e1161]:
+              - generic [ref=e1162]:
+                - generic [ref=e1165]: "-30%"
+                - button [ref=e1166]:
+                  - img [ref=e1167]
+              - img "Sérum Anti-Chute Fortifiant" [ref=e1170]
+              - generic [ref=e1171]:
+                - generic [ref=e1173]: + formati
+                - generic [ref=e1174]:
+                  - generic [ref=e1175]:
+                    - generic [ref=e1176]: Kérastase
+                    - generic [ref=e1177]:
+                      - generic [ref=e1178]: Genesis
+                      - generic [ref=e1179]: Sérum Anti-Chute Fortifiant
+                      - generic [ref=e1180]: Siero capelli
+                  - generic [ref=e1182]:
+                    - generic [ref=e1183]: 39,82€
+                    - generic [ref=e1184]: 56,89€
+              - button "Seleziona" [ref=e1186]:
+                - generic [ref=e1187]: Seleziona
+          - link "-15% Spumone + formati Veralab Detergenti Viso Spumone Mousse detergente viso 11,90€ 14,00€ Seleziona" [ref=e1189] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-spumone-1ve417de10003
+            - generic [ref=e1190]:
+              - generic [ref=e1191]:
+                - generic [ref=e1194]: "-15%"
+                - button [ref=e1195]:
+                  - img [ref=e1196]
+              - img "Spumone" [ref=e1199]
+              - generic [ref=e1200]:
+                - generic [ref=e1202]: + formati
+                - generic [ref=e1203]:
+                  - generic [ref=e1204]:
+                    - generic [ref=e1205]: Veralab
+                    - generic [ref=e1206]:
+                      - generic [ref=e1207]: Detergenti Viso
+                      - generic [ref=e1208]: Spumone
+                      - generic [ref=e1209]: Mousse detergente viso
+                  - generic [ref=e1211]:
+                    - generic [ref=e1212]: 11,90€
+                    - generic [ref=e1213]: 14,00€
+              - button "Seleziona" [ref=e1215]:
+                - generic [ref=e1216]: Seleziona
+          - link "-40% Effaclar Duo+M Trattamento Viso Anti-imperfezioni LA ROCHE-POSAY Effaclar Effaclar Duo+M Trattamento Viso Anti-imperfezioni Crema viso pelle grassa 13,73€ 22,88€ Aggiungi al carrello" [ref=e1218] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-effaclar-duom-trattamento-viso-anti-imperfezioni-1rp0000000210
+            - generic [ref=e1219]:
+              - generic [ref=e1220]:
+                - generic [ref=e1223]: "-40%"
+                - button [ref=e1224]:
+                  - img [ref=e1225]
+              - img "Effaclar Duo+M Trattamento Viso Anti-imperfezioni" [ref=e1228]
+              - generic [ref=e1231]:
+                - generic [ref=e1232]:
+                  - generic [ref=e1233]: LA ROCHE-POSAY
+                  - generic [ref=e1234]:
+                    - generic [ref=e1235]: Effaclar
+                    - generic [ref=e1236]: Effaclar Duo+M Trattamento Viso Anti-imperfezioni
+                    - generic [ref=e1237]: Crema viso pelle grassa
+                - generic [ref=e1239]:
+                  - generic [ref=e1240]: 13,73€
+                  - generic [ref=e1241]: 22,88€
+              - button "Aggiungi al carrello" [ref=e1244]:
+                - generic [ref=e1245]: Aggiungi al carrello
+          - link "-25% MyToyBoy Mascara Diego Dalla Palma Occhi MyToyBoy Mascara Mascara 22,85€ 30,47€ Aggiungi al carrello" [ref=e1247] [cursor=pointer]:
+            - /url: /products/make-up-mytoyboy-mascara-1dp831y70151
+            - generic [ref=e1248]:
+              - generic [ref=e1249]:
+                - generic [ref=e1252]: "-25%"
+                - button [ref=e1253]:
+                  - img [ref=e1254]
+              - img "MyToyBoy Mascara" [ref=e1257]
+              - generic [ref=e1260]:
+                - generic [ref=e1261]:
+                  - generic [ref=e1262]: Diego Dalla Palma
+                  - generic [ref=e1263]:
+                    - generic [ref=e1264]: Occhi
+                    - generic [ref=e1265]: MyToyBoy Mascara
+                    - generic [ref=e1266]: Mascara
+                - generic [ref=e1268]:
+                  - generic [ref=e1269]: 22,85€
+                  - generic [ref=e1270]: 30,47€
+              - button "Aggiungi al carrello" [ref=e1273]:
+                - generic [ref=e1274]: Aggiungi al carrello
+          - link "-30% bodyguard - heat protect spray - tutti i tipi di capelli GHD ghd Style bodyguard - heat protect spray - tutti i tipi di capelli Prodotti termo protettivi capelli 20,92€ 29,88€ Aggiungi al carrello" [ref=e1276] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-bodyguard-heat-protect-spray-tutti-i-tipi-di-capelli-1gh0000000045
+            - generic [ref=e1277]:
+              - generic [ref=e1278]:
+                - generic [ref=e1281]: "-30%"
+                - button [ref=e1282]:
+                  - img [ref=e1283]
+              - img "bodyguard - heat protect spray - tutti i tipi di capelli" [ref=e1286]
+              - generic [ref=e1289]:
+                - generic [ref=e1290]:
+                  - generic [ref=e1291]: GHD
+                  - generic [ref=e1292]:
+                    - generic [ref=e1293]: ghd Style
+                    - generic [ref=e1294]: bodyguard - heat protect spray - tutti i tipi di capelli
+                    - generic [ref=e1295]: Prodotti termo protettivi capelli
+                - generic [ref=e1297]:
+                  - generic [ref=e1298]: 20,92€
+                  - generic [ref=e1299]: 29,88€
+              - button "Aggiungi al carrello" [ref=e1302]:
+                - generic [ref=e1303]: Aggiungi al carrello
+          - link "-30% Sauvage + formati DIOR Sauvage Eau de Toilette 66,87€ 95,53€ Seleziona" [ref=e1305] [cursor=pointer]:
+            - /url: /products/profumi-sauvage-1diy00svs1
+            - generic [ref=e1306]:
+              - generic [ref=e1307]:
+                - generic [ref=e1310]: "-30%"
+                - button [ref=e1311]:
+                  - img [ref=e1312]
+              - img "Sauvage" [ref=e1315]
+              - generic [ref=e1316]:
+                - generic [ref=e1318]: + formati
+                - generic [ref=e1319]:
+                  - generic [ref=e1320]:
+                    - generic [ref=e1321]: DIOR
+                    - generic [ref=e1322]:
+                      - generic [ref=e1323]: Sauvage
+                      - generic [ref=e1324]: Eau de Toilette
+                  - generic [ref=e1326]:
+                    - generic [ref=e1327]: 66,87€
+                    - generic [ref=e1328]: 95,53€
+              - button "Seleziona" [ref=e1330]:
+                - generic [ref=e1331]: Seleziona
+          - link "-25% Close-Up Smoothing Pressed Powder + colori Nabla Viso Close-Up Smoothing Pressed Powder Cipria 20,25€ 27,00€ Seleziona" [ref=e1333] [cursor=pointer]:
+            - /url: /products/make-up-close-up-smoothing-pressed-powder-2na887v51001
+            - generic [ref=e1334]:
+              - generic [ref=e1335]:
+                - generic [ref=e1338]: "-25%"
+                - button [ref=e1339]:
+                  - img [ref=e1340]
+              - img "Close-Up Smoothing Pressed Powder" [ref=e1343]
+              - generic [ref=e1344]:
+                - generic [ref=e1350]: + colori
+                - generic [ref=e1351]:
+                  - generic [ref=e1352]:
+                    - generic [ref=e1353]: Nabla
+                    - generic [ref=e1354]:
+                      - generic [ref=e1355]: Viso
+                      - generic [ref=e1356]: Close-Up Smoothing Pressed Powder
+                      - generic [ref=e1357]: Cipria
+                  - generic [ref=e1359]:
+                    - generic [ref=e1360]: 20,25€
+                    - generic [ref=e1361]: 27,00€
+              - button "Seleziona" [ref=e1363]:
+                - generic [ref=e1364]: Seleziona
+          - link "-30% Bain Hydra-Fortifiant + formati Kérastase Genesis Bain Hydra-Fortifiant Shampoo anticaduta 22,97€ 32,82€ Seleziona" [ref=e1366] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-bain-hydra-fortifiant-1ke035ge10001
+            - generic [ref=e1367]:
+              - generic [ref=e1368]:
+                - generic [ref=e1371]: "-30%"
+                - button [ref=e1372]:
+                  - img [ref=e1373]
+              - img "Bain Hydra-Fortifiant" [ref=e1376]
+              - generic [ref=e1377]:
+                - generic [ref=e1379]: + formati
+                - generic [ref=e1380]:
+                  - generic [ref=e1381]:
+                    - generic [ref=e1382]: Kérastase
+                    - generic [ref=e1383]:
+                      - generic [ref=e1384]: Genesis
+                      - generic [ref=e1385]: Bain Hydra-Fortifiant
+                      - generic [ref=e1386]: Shampoo anticaduta
+                  - generic [ref=e1388]:
+                    - generic [ref=e1389]: 22,97€
+                    - generic [ref=e1390]: 32,82€
+              - button "Seleziona" [ref=e1392]:
+                - generic [ref=e1393]: Seleziona
+          - link "-30% Lash Clash Mascara + colori Omaggio Yves Saint Laurent Occhi Lash Clash Mascara Mascara 31,50€ 45,00€ Seleziona" [ref=e1395] [cursor=pointer]:
+            - /url: /products/make-up-lash-clash-mascara-1ys808y70008
+            - generic [ref=e1396]:
+              - generic [ref=e1397]:
+                - generic [ref=e1400]: "-30%"
+                - button [ref=e1401]:
+                  - img [ref=e1402]
+              - img "Lash Clash Mascara" [ref=e1405]
+              - generic [ref=e1406]:
+                - generic [ref=e1412]: + colori
+                - generic [ref=e1415]: Omaggio
+                - generic [ref=e1416]:
+                  - generic [ref=e1417]:
+                    - generic [ref=e1418]: Yves Saint Laurent
+                    - generic [ref=e1419]:
+                      - generic [ref=e1420]: Occhi
+                      - generic [ref=e1421]: Lash Clash Mascara
+                      - generic [ref=e1422]: Mascara
+                  - generic [ref=e1424]:
+                    - generic [ref=e1425]: 31,50€
+                    - generic [ref=e1426]: 45,00€
+              - button "Seleziona" [ref=e1428]:
+                - generic [ref=e1429]: Seleziona
+          - link "-35% Mela B3 Siero Intensivo Anti-macchie + formati LA ROCHE-POSAY Mela B3 Mela B3 Siero Intensivo Anti-macchie Siero viso antimacchie 34,37€ 52,88€ Seleziona" [ref=e1431] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-mela-b3-siero-intensivo-anti-macchie-1rp0000000205
+            - generic [ref=e1432]:
+              - generic [ref=e1433]:
+                - generic [ref=e1436]: "-35%"
+                - button [ref=e1437]:
+                  - img [ref=e1438]
+              - img "Mela B3 Siero Intensivo Anti-macchie" [ref=e1441]
+              - generic [ref=e1442]:
+                - generic [ref=e1444]: + formati
+                - generic [ref=e1445]:
+                  - generic [ref=e1446]:
+                    - generic [ref=e1447]: LA ROCHE-POSAY
+                    - generic [ref=e1448]:
+                      - generic [ref=e1449]: Mela B3
+                      - generic [ref=e1450]: Mela B3 Siero Intensivo Anti-macchie
+                      - generic [ref=e1451]: Siero viso antimacchie
+                  - generic [ref=e1453]:
+                    - generic [ref=e1454]: 34,37€
+                    - generic [ref=e1455]: 52,88€
+              - button "Seleziona" [ref=e1457]:
+                - generic [ref=e1458]: Seleziona
+          - link "-40% Crema Viso Idratante Anti-lucidità Pelle Grassa e Mista CERAVE Idratanti Crema Viso Idratante Anti-lucidità Pelle Grassa e Mista Crema idratante viso 12,52€ 20,86€ Aggiungi al carrello" [ref=e1460] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-crema-viso-idratante-anti-lucidita-pelle-grassa-e-mista-1cv0000000037
+            - generic [ref=e1461]:
+              - generic [ref=e1462]:
+                - generic [ref=e1465]: "-40%"
+                - button [ref=e1466]:
+                  - img [ref=e1467]
+              - img "Crema Viso Idratante Anti-lucidità Pelle Grassa e Mista" [ref=e1470]
+              - generic [ref=e1473]:
+                - generic [ref=e1474]:
+                  - generic [ref=e1475]: CERAVE
+                  - generic [ref=e1476]:
+                    - generic [ref=e1477]: Idratanti
+                    - generic [ref=e1478]: Crema Viso Idratante Anti-lucidità Pelle Grassa e Mista
+                    - generic [ref=e1479]: Crema idratante viso
+                - generic [ref=e1481]:
+                  - generic [ref=e1482]: 12,52€
+                  - generic [ref=e1483]: 20,86€
+              - button "Aggiungi al carrello" [ref=e1486]:
+                - generic [ref=e1487]: Aggiungi al carrello
+          - link "-40% Detergente Controllo Imperfezioni + formati CERAVE Detergenti Detergente Controllo Imperfezioni Gel detergente viso 9,60€ 16,00€ Seleziona" [ref=e1489] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-detergente-controllo-imperfezioni-1cv0000000028
+            - generic [ref=e1490]:
+              - generic [ref=e1491]:
+                - generic [ref=e1494]: "-40%"
+                - button [ref=e1495]:
+                  - img [ref=e1496]
+              - img "Detergente Controllo Imperfezioni" [ref=e1499]
+              - generic [ref=e1500]:
+                - generic [ref=e1502]: + formati
+                - generic [ref=e1503]:
+                  - generic [ref=e1504]:
+                    - generic [ref=e1505]: CERAVE
+                    - generic [ref=e1506]:
+                      - generic [ref=e1507]: Detergenti
+                      - generic [ref=e1508]: Detergente Controllo Imperfezioni
+                      - generic [ref=e1509]: Gel detergente viso
+                  - generic [ref=e1511]:
+                    - generic [ref=e1512]: 9,60€
+                    - generic [ref=e1513]: 16,00€
+              - button "Seleziona" [ref=e1515]:
+                - generic [ref=e1516]: Seleziona
+          - link "-20% Huileberry 10 Omaggio Mulac Hairlab Huileberry 10 Olio capelli 25,52€ 31,90€ Aggiungi al carrello" [ref=e1518] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-huileberry-10-2ml890hc60001
+            - generic [ref=e1519]:
+              - generic [ref=e1520]:
+                - generic [ref=e1523]: "-20%"
+                - button [ref=e1524]:
+                  - img [ref=e1525]
+              - img "Huileberry 10" [ref=e1528]
+              - generic [ref=e1529]:
+                - generic [ref=e1533]: Omaggio
+                - generic [ref=e1534]:
+                  - generic [ref=e1535]:
+                    - generic [ref=e1536]: Mulac
+                    - generic [ref=e1537]:
+                      - generic [ref=e1538]: Hairlab
+                      - generic [ref=e1539]: Huileberry 10
+                      - generic [ref=e1540]: Olio capelli
+                  - generic [ref=e1542]:
+                    - generic [ref=e1543]: 25,52€
+                    - generic [ref=e1544]: 31,90€
+              - button "Aggiungi al carrello" [ref=e1547]:
+                - generic [ref=e1548]: Aggiungi al carrello
+          - link "-20% Acido ialuronico multiplo peso molecolare attivo puro LA SAPONARIA Attivi Puri Acido ialuronico multiplo peso molecolare attivo puro Trattamento antietà pelli mature 7,92€ 9,90€ Aggiungi al carrello" [ref=e1550] [cursor=pointer]:
+            - /url: /products/trattamenti-viso-acido-ialuronico-multiplo-peso-molecolare-attivo-puro-1sp0000000004
+            - generic [ref=e1551]:
+              - generic [ref=e1552]:
+                - generic [ref=e1555]: "-20%"
+                - button [ref=e1556]:
+                  - img [ref=e1557]
+              - img "Acido ialuronico multiplo peso molecolare attivo puro" [ref=e1560]
+              - generic [ref=e1563]:
+                - generic [ref=e1564]:
+                  - generic [ref=e1565]: LA SAPONARIA
+                  - generic [ref=e1566]:
+                    - generic [ref=e1567]: Attivi Puri
+                    - generic [ref=e1568]: Acido ialuronico multiplo peso molecolare attivo puro
+                    - generic [ref=e1569]: Trattamento antietà pelli mature
+                - generic [ref=e1571]:
+                  - generic [ref=e1572]: 7,92€
+                  - generic [ref=e1573]: 9,90€
+              - button "Aggiungi al carrello" [ref=e1576]:
+                - generic [ref=e1577]: Aggiungi al carrello
+          - link "-30% Bain Divalent + formati Kérastase Spécifique Bain Divalent Shampoo purificante 22,97€ 32,82€ Seleziona" [ref=e1579] [cursor=pointer]:
+            - /url: /products/trattamenti-capelli-bain-divalent-1ke035sp10014
+            - generic [ref=e1580]:
+              - generic [ref=e1581]:
+                - generic [ref=e1584]: "-30%"
+                - button [ref=e1585]:
+                  - img [ref=e1586]
+              - img "Bain Divalent" [ref=e1589]
+              - generic [ref=e1590]:
+                - generic [ref=e1592]: + formati
+                - generic [ref=e1593]:
+                  - generic [ref=e1594]:
+                    - generic [ref=e1595]: Kérastase
+                    - generic [ref=e1596]:
+                      - generic [ref=e1597]: Spécifique
+                      - generic [ref=e1598]: Bain Divalent
+                      - generic [ref=e1599]: Shampoo purificante
+                  - generic [ref=e1601]:
+                    - generic [ref=e1602]: 22,97€
+                    - generic [ref=e1603]: 32,82€
+              - button "Seleziona" [ref=e1605]:
+                - generic [ref=e1606]: Seleziona
+          - link "-25% MySelfToy Mascara Diego Dalla Palma Occhi MySelfToy Mascara Mascara 22,85€ 30,47€ Aggiungi al carrello" [ref=e1608] [cursor=pointer]:
+            - /url: /products/make-up-myselftoy-mascara-1dp0000000201
+            - generic [ref=e1609]:
+              - generic [ref=e1610]:
+                - generic [ref=e1613]: "-25%"
+                - button [ref=e1614]:
+                  - img [ref=e1615]
+              - img "MySelfToy Mascara" [ref=e1618]
+              - generic [ref=e1621]:
+                - generic [ref=e1622]:
+                  - generic [ref=e1623]: Diego Dalla Palma
+                  - generic [ref=e1624]:
+                    - generic [ref=e1625]: Occhi
+                    - generic [ref=e1626]: MySelfToy Mascara
+                    - generic [ref=e1627]: Mascara
+                - generic [ref=e1629]:
+                  - generic [ref=e1630]: 22,85€
+                  - generic [ref=e1631]: 30,47€
+              - button "Aggiungi al carrello" [ref=e1634]:
+                - generic [ref=e1635]: Aggiungi al carrello
+      - generic [ref=e1641]:
+        - generic [ref=e1642]:
+          - heading "UNISCITI AL MOVIMENTO REFILL" [level=2] [ref=e1644]
+          - generic [ref=e1645]:
+            - paragraph [ref=e1646]: Più ricarichi, più risparmi. Acquista almeno 89€ di prodotti formato Refill dei brand selezionati e ricevi in omaggio un kit con 4 prodotti formato viaggio fragranze, skincare e haircare per una beauty routine completa!
+            - link "SCOPRI" [ref=e1648] [cursor=pointer]:
+              - /url: /omaggio-la-roche-posay-gwp-lrp-260603
+              - generic [ref=e1649]: SCOPRI
+        - generic [ref=e1650]:
+          - img "Co-marketing image" [ref=e1652]
+          - link "Image for Prada Prada Paradoxe Eau de Parfum Refill SCOPRI" [ref=e1653] [cursor=pointer]:
+            - /url: /products/profumi-paradoxe-2pr0000000007
+            - generic [ref=e1654]:
+              - img "Image for Prada" [ref=e1656]
+              - generic [ref=e1657]:
+                - generic [ref=e1658]:
+                  - paragraph [ref=e1659]: Prada
+                  - paragraph [ref=e1660]: Paradoxe Eau de Parfum Refill
+                - generic [ref=e1662]:
+                  - generic [ref=e1663]: SCOPRI
+                  - img [ref=e1664]
+      - generic [ref=e1666]:
+        - generic [ref=e1667]:
+          - heading "Parliamo di beauty?" [level=2] [ref=e1668]
+          - paragraph [ref=e1669]: News, tips e trend dal modo beauty!
+          - button "Scopri tutte le news!" [ref=e1670] [cursor=pointer]:
+            - generic [ref=e1671]: Scopri tutte le news!
+        - generic [ref=e1672]:
+          - 'link "post-image Beauty tips Acconciature capelli: i segreti e i prodotti must-have per un look perfetto che dura a lungo 8 giugno 2026" [ref=e1673] [cursor=pointer]':
+            - /url: https://www.pinalli.it/blog/acconciature-capelli-prodotti-migliori-da-utilizzare
+            - img "post-image" [ref=e1674]
+            - generic [ref=e1675]: Beauty tips
+            - paragraph [ref=e1676]: "Acconciature capelli: i segreti e i prodotti must-have per un look perfetto che dura a lungo"
+            - paragraph [ref=e1677]: 8 giugno 2026
+          - 'link "post-image Events Pride 2026: insieme a Jean Paul Gaultier per Casa Arcobaleno 8 giugno 2026" [ref=e1678] [cursor=pointer]':
+            - /url: https://www.pinalli.it/blog/pride-2026-insieme-a-jean-paul-gaultier-per-casa-arcobaleno
+            - img "post-image" [ref=e1679]
+            - generic [ref=e1680]: Events
+            - paragraph [ref=e1681]: "Pride 2026: insieme a Jean Paul Gaultier per Casa Arcobaleno"
+            - paragraph [ref=e1682]: 8 giugno 2026
+      - generic [ref=e1683]:
+        - 'heading "Pinalli: profumeria online con 103 beauty store" [level=1] [ref=e1684]'
+        - generic [ref=e1685]:
+          - generic [ref=e1686]:
+            - paragraph [ref=e1687]:
+              - text: Ogni giorno ti sorprendiamo con una selezione unica di
+              - strong [ref=e1688]: prodotti di bellezza
+              - text: ","
+              - strong [ref=e1689]: profumi
+              - text: e
+              - strong [ref=e1690]: idee regalo
+              - text: perfette per ogni occasione. Scopri i
+              - strong [ref=e1691]: migliori brand del mondo beauty e della profumeria
+              - text: ", insieme a tutto ciò che ti serve per la skincare viso e corpo, la cura dei capelli, il make-up e la protezione solare. Siamo qui per offrirti un'esperienza di shopping online unica, con consigli personalizzati e novità imperdibili."
+            - 'heading "Make-up: tutto per il trucco perfetto" [level=2] [ref=e1692]'
+            - paragraph [ref=e1693]:
+              - text: Da Pinalli, troverai prodotti
+              - link "make-up" [ref=e1694] [cursor=pointer]:
+                - /url: https://www.pinalli.it/make-up
+              - text: dei migliori brand. Dai
+              - strong [ref=e1695]: fondotinta
+              - text: ai
+              - strong [ref=e1696]: rossetti
+              - text: ", dagli"
+              - strong [ref=e1697]: ombretti
+              - text: ai
+              - strong [ref=e1698]: mascara
+              - text: ", abbiamo tutto ciò di cui hai bisogno per creare il trucco perfetto per ogni occasione. Scopri le ultime tendenze e trova i prodotti che si adattano meglio al tuo stile e alla tua pelle. Approfitta dei nostri consigli personalizzati per esaltare la tua bellezza naturale."
+            - 'heading "Profumi: fragranze uomo, donna e unisex" [level=2] [ref=e1699]'
+            - paragraph [ref=e1700]:
+              - text: La nostra selezione di
+              - link "profumi" [ref=e1701] [cursor=pointer]:
+                - /url: https://www.pinalli.it/profumi
+              - text: comprende le fragranze più amate e ricercate. Che tu preferisca note floreali, agrumate, orientali o legnose, da Pinalli troverai il
+              - strong [ref=e1702]: profumo che esprime al meglio la tua essenza
+              - text: . Scopri le novità e i classici intramontabili dei brand più prestigiosi.
+            - 'heading "Skincare Viso: cosmetici per la beauty routine" [level=2] [ref=e1703]'
+            - paragraph [ref=e1704]:
+              - text: Una pelle del viso sana e luminosa inizia con una
+              - strong [ref=e1705]: skincare routine adeguata
+              - text: . Scopri i nostri
+              - link "trattamenti viso" [ref=e1706] [cursor=pointer]:
+                - /url: https://www.pinalli.it/trattamenti-viso
+              - text: ", dalle creme idratanti ai sieri anti-età, dai detergenti ai tonici. Da Pinalli, selezioniamo solo i"
+              - strong [ref=e1707]: migliori prodotti viso
+              - text: per offrirti soluzioni efficaci e innovative per ogni tipo di pelle e per tutte le età.
+            - 'heading "Cura del corpo: trattamenti per il tuo benessere" [level=2] [ref=e1708]'
+            - paragraph [ref=e1709]:
+              - text: La
+              - link "cura del corpo" [ref=e1710] [cursor=pointer]:
+                - /url: https://www.pinalli.it/trattamenti-corpo
+              - text: è un momento di relax e benessere. Pinalli ti offre una vasta gamma di prodotti per idratare, esfoliare e tonificare la tua pelle. Scopri le nostre
+              - strong [ref=e1711]: creme
+              - text: ","
+              - strong [ref=e1712]: oli
+              - text: e
+              - strong [ref=e1713]: scrub corpo
+              - text: ", pensati per regalarti una pelle morbida e vellutata ogni giorno. Trova il prodotto perfetto per il tuo rituale di bellezza ma anche per"
+              - strong [ref=e1714]: trattare gli inestetismi della pelle
+              - text: – come cellulite e smagliature – o per ritrovare tonicità e compattezza.
+            - 'heading "Solari: protezione e bellezza sotto il sole" [level=2] [ref=e1715]'
+            - paragraph [ref=e1716]:
+              - text: Prendersi cura della pelle sotto il sole è fondamentale. Da Pinalli, offriamo i migliori prodotti
+              - link "solari" [ref=e1717] [cursor=pointer]:
+                - /url: https://www.pinalli.it/solari
+              - text: per
+              - strong [ref=e1718]: proteggere la tua pelle dai raggi UV
+              - text: ", mantenendola idratata e luminosa. Trova creme solari, lozioni doposole e prodotti specifici per ogni tipo di pelle, per un'abbronzatura sicura e uniforme."
+            - 'heading "Capelli: prodotti professionali per ogni tipologia" [level=2] [ref=e1719]'
+            - paragraph [ref=e1720]:
+              - text: Da Pinalli, ci prendiamo cura anche dei tuoi
+              - link "capelli" [ref=e1721] [cursor=pointer]:
+                - /url: https://www.pinalli.it/trattamenti-capelli
+              - text: . Offriamo una selezione di
+              - strong [ref=e1722]: shampoo
+              - text: ","
+              - strong [ref=e1723]: balsami
+              - text: ","
+              - strong [ref=e1724]: maschere
+              - text: e
+              - strong [ref=e1725]: trattamenti specifici
+              - text: per ogni tipo di capello. Che tu abbia capelli secchi, grassi, ricci o lisci, troverai i prodotti giusti per mantenerli sani, forti e splendenti.
+            - 'heading "Idee Regalo: sorprendi chi vuoi bene" [level=2] [ref=e1726]'
+            - paragraph [ref=e1727]:
+              - text: Cerchi il
+              - strong [ref=e1728]: regalo perfetto
+              - text: "? Pinalli ha ciò che fa per te. Scopri la nostra selezione di"
+              - link "idee regalo" [ref=e1729] [cursor=pointer]:
+                - /url: https://www.pinalli.it/idee-regalo
+              - text: ", dai"
+              - strong [ref=e1730]: cofanetti beauty
+              - text: ai profumi esclusivi, dai
+              - strong [ref=e1731]: set di skincare
+              - text: ai
+              - strong [ref=e1732]: prodotti make-up
+              - text: . Sorprendi con un dono di bellezza, pensato per ogni occasione speciale.
+            - paragraph [ref=e1733]:
+              - text: Scegli la
+              - strong [ref=e1734]: Profumeria Pinalli
+              - text: per il tuo
+              - strong [ref=e1735]: shopping online
+              - text: "e scopri un mondo di prodotti selezionati con cura. La bellezza è per tutti: rendi speciali i tuoi momenti quotidiani con Pinalli."
+          - generic [ref=e1737] [cursor=pointer]: Leggi di più
+      - generic [ref=e1738]:
+        - img "Immagine newsletter" [ref=e1740]
+        - generic [ref=e1741]:
+          - generic [ref=e1742]:
+            - heading "Restiamo in contatto" [level=2] [ref=e1743]
+            - paragraph [ref=e1744]: Offerte, sconti e beauty news in anteprima!
+          - generic [ref=e1745]:
+            - generic [ref=e1746]:
+              - textbox "Inserisci la tua mail" [ref=e1748]
+              - button "cta-button" [ref=e1749] [cursor=pointer]:
+                - img [ref=e1750]
+            - paragraph [ref=e1752]:
+              - text: Acconsento a ricevere codici sconto, offerte, promozioni e tanto altro (finalità di marketing).
+              - link "Leggi l'informativa (punto 4.2)" [ref=e1753] [cursor=pointer]:
+                - /url: https://www.pinalli.it/pages/privacy-policy
+                - strong [ref=e1754]: Leggi l'informativa (punto 4.2)
+              - text: ai sensi e per gli effetti degli art. 13 e 14 del regolamento UE 2016/679.
+    - generic [ref=e1756]:
+      - generic [ref=e1757]:
+        - img "Image Spedizione gratuita" [ref=e1758]
+        - generic [ref=e1759]:
+          - paragraph [ref=e1760]: Spedizione gratuita
+          - paragraph [ref=e1761]: da 30€ di spesa!
+      - generic [ref=e1762]:
+        - img "Image Ritiro in Beauty Store" [ref=e1763]
+        - generic [ref=e1764]:
+          - paragraph [ref=e1765]: Ritiro in Beauty Store
+          - paragraph [ref=e1766]: sempre gratuito!
+      - generic [ref=e1767]:
+        - img "Image Campioncini omaggio" [ref=e1768]
+        - generic [ref=e1769]:
+          - paragraph [ref=e1770]: Campioncini omaggio
+          - paragraph [ref=e1771]: ad ogni acquisto!
+      - generic [ref=e1772]:
+        - img "Image Assistenza clienti" [ref=e1773]
+        - generic [ref=e1774]:
+          - paragraph [ref=e1775]: Assistenza clienti
+          - paragraph [ref=e1776]: via mail o telefono!
+    - generic [ref=e1778]:
+      - generic [ref=e1779]:
+        - generic [ref=e1780]:
+          - generic [ref=e1781]: Hai bisogno di noi?
+          - generic [ref=e1782]:
+            - generic [ref=e1783]:
+              - link "eshop@pinalli.it" [ref=e1784] [cursor=pointer]:
+                - /url: mailto:eshop@pinalli.it
+              - link "Assistenza Whatsapp" [ref=e1785] [cursor=pointer]:
+                - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - paragraph [ref=e1786]: Da Lunedì a Venerdì
+            - paragraph [ref=e1787]: 8:30 - 13:00 / 14:00 - 17:00
+        - button "Assistenza e Ordini" [ref=e1790] [cursor=pointer]:
+          - generic [ref=e1792]: Assistenza e Ordini
+          - img [ref=e1796]
+        - button "Prodotti e Servizi" [ref=e1800] [cursor=pointer]:
+          - generic [ref=e1802]: Prodotti e Servizi
+          - img [ref=e1806]
+        - button "Mondo Pinalli" [ref=e1810] [cursor=pointer]:
+          - generic [ref=e1812]: Mondo Pinalli
+          - img [ref=e1816]
+        - generic [ref=e1818]:
+          - generic [ref=e1819]: Seguici su
+          - generic [ref=e1820]:
+            - link "Logo Social" [ref=e1821] [cursor=pointer]:
+              - /url: https://www.facebook.com/profumeriepinalli/
+              - img "Logo Social" [ref=e1822]
+            - link "Logo Social" [ref=e1823] [cursor=pointer]:
+              - /url: https://www.instagram.com/pinalli
+              - img "Logo Social" [ref=e1824]
+            - link "Logo Social" [ref=e1825] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pinalli_official
+              - img "Logo Social" [ref=e1826]
+      - generic [ref=e1827]:
+        - link "Clicca qui per verificare se questo sito è legale" [ref=e1829] [cursor=pointer]:
+          - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+          - img "Clicca qui per verificare se questo sito è legale" [ref=e1830]
+        - generic [ref=e1831]:
+          - img "Logo Pinalli" [ref=e1833]
+          - generic [ref=e1835]:
+            - img "Logo Pagamento" [ref=e1836]
+            - img "Logo Pagamento" [ref=e1837]
+            - img "Logo Pagamento" [ref=e1838]
+            - img "Logo Pagamento" [ref=e1839]
+            - img "Logo Pagamento" [ref=e1840]
+            - img "Logo Pagamento" [ref=e1841]
+            - img "Logo Pagamento" [ref=e1842]
+            - img "Logo Pagamento" [ref=e1843]
+            - img "Logo Pagamento" [ref=e1844]
+            - img "Logo Pagamento" [ref=e1845]
+          - generic [ref=e1847]:
+            - link "Condizioni generali di vendita" [ref=e1848] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+            - link "Condizioni generali del programma fedeltà" [ref=e1849] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+            - link "Privacy policy" [ref=e1850] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/privacy-policy
+            - link "Cookie policy" [ref=e1851] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/cookie-policy
+            - link "Note legali" [ref=e1852] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/note-legali
+            - link "Mappa del sito" [ref=e1853] [cursor=pointer]:
+              - /url: https://www.pinalli.it/sitemap
+            - link "Aggiorna Consensi Cookie" [ref=e1854] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e1857]:
+        - text: "Pinalli s.r.l. Società soggetta a Direzione e Coordinamento da Parte di INDIE 1 Srl, Sede legale:"
+        - link "Via Nicola Piccinni n. 3, 20131 Milano (MI)" [ref=e1858] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/RTAQJP6TaV7G51sZA
+        - text: "- Sede operativa:"
+        - link "Via Gandhi, 7, 29017 Fiorenzuola d'Arda PC" [ref=e1859] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/45VadEpY26XRpFLT9
+        - text: "- Partita IVA / Codice Fiscale / Reg. Impr. 08836820962, i.v. R.E.A. MI 205215, Cap.Soc. € 2.400.000,00"
+  - alert [ref=e1860]
+  - button "Open chat" [ref=e1862] [cursor=pointer]:
+    - img "Pina" [ref=e1863]
+  - generic:
+    - text: 👋 Hai bisogno di assistenza? 💬
+    - button "Close chat welcome message": ✕
+  - generic:
+    - generic:
+      - img "Pina Small"
+      - generic:
+        - generic: Ciao!
+        - generic: Chatta con me
+      - generic:
+        - generic:
+          - button "Toggle menu" [expanded] [ref=e1864] [cursor=pointer]:
+            - img [ref=e1865]: Sorry, your browser does not support inline SVG.
+          - menu "Toggle menu":
+            - list:
+              - menuitemcheckbox "Voice bot" [active]:
+                - checkbox "Voice bot"
+                - generic: Voice bot
+              - menuitem "Close chat"
+        - button "Close chat" [ref=e1867] [cursor=pointer]:
+          - img [ref=e1868]: Sorry, your browser does not support inline SVG.
+    - button "Go to chat home" [ref=e1870] [cursor=pointer]:
+      - img [ref=e1871]: Sorry, your browser does not support inline SVG.
+```
