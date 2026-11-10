@@ -1,0 +1,305 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e15]:
+          - text: SAN VALENTINO
+          - link "Scopri" [ref=e16]:
+            - /url: /promozione-san-valentino
+      - generic [ref=e18]:
+        - paragraph [ref=e20]: SAN VALENTINO
+        - paragraph [ref=e21]:
+          - text: Dal
+          - strong [ref=e22]: 26 gennaio al 15 febbraio
+          - text: "tante idee regalo per San Valentino scontate su Pinalli: fino al"
+          - strong [ref=e23]: "-40"
+          - text: "% su tantissime fragranze!"
+        - link "Scopri" [ref=e25]:
+          - /url: https://www.pinalli.it/promozione-san-valentino
+          - generic [ref=e26]:
+            - generic [ref=e27]: Scopri
+            - img [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e33] [cursor=pointer]:
+          - img [ref=e34]
+        - link [ref=e39]:
+          - /url: https://www.pinalli.it
+          - img [ref=e40]
+        - generic [ref=e50]:
+          - img [ref=e52] [cursor=pointer]
+          - button [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+          - button "1" [ref=e59] [cursor=pointer]:
+            - generic [ref=e60]:
+              - img [ref=e61]
+              - generic [ref=e63]: "1"
+      - combobox [ref=e65]:
+        - search [ref=e66]:
+          - generic [ref=e67]:
+            - textbox "Cerca una marca, un prodotto…" [ref=e69]
+            - button "search" [ref=e70] [cursor=pointer]:
+              - img [ref=e71]
+    - navigation [ref=e74]:
+      - generic [ref=e76]:
+        - link "Promo" [ref=e77]:
+          - /url: https://www.pinalli.it/promo
+          - generic [ref=e79]: Promo
+        - link "Brand" [ref=e80]:
+          - /url: https://www.pinalli.it/brand
+          - generic [ref=e82]: Brand
+        - link "Omaggi" [ref=e83]:
+          - /url: https://www.pinalli.it/gwps
+          - generic [ref=e85]: Omaggi
+        - link "Make-up" [ref=e86]:
+          - /url: https://www.pinalli.it/make-up
+          - generic [ref=e88]: Make-up
+        - link "Profumi" [ref=e89]:
+          - /url: https://www.pinalli.it/profumi
+          - generic [ref=e91]: Profumi
+        - link "Viso" [ref=e92]:
+          - /url: https://www.pinalli.it/trattamenti-viso
+          - generic [ref=e94]: Viso
+        - link "Capelli" [ref=e95]:
+          - /url: https://www.pinalli.it/trattamenti-capelli
+          - generic [ref=e97]: Capelli
+        - link "Dermocosmesi" [ref=e98]:
+          - /url: https://www.pinalli.it/dermocosmesi
+          - generic [ref=e100]: Dermocosmesi
+        - link "Corpo" [ref=e101]:
+          - /url: https://www.pinalli.it/trattamenti-corpo
+          - generic [ref=e103]: Corpo
+        - link "Healthcare" [ref=e104]:
+          - /url: https://www.pinalli.it/healthcare-e-altro
+          - generic [ref=e106]: Healthcare
+        - link "Idee regalo e altro" [ref=e107]:
+          - /url: https://www.pinalli.it/idee-regalo
+          - generic [ref=e109]: Idee regalo e altro
+        - link "Uomo" [ref=e110]:
+          - /url: https://www.pinalli.it/beauty-uomo
+          - generic [ref=e112]: Uomo
+        - link "Solari" [ref=e113]:
+          - /url: https://www.pinalli.it/solari
+          - generic [ref=e115]: Solari
+    - navigation "breadcrumb" [ref=e117]:
+      - list [ref=e118]:
+        - listitem [ref=e119]:
+          - link "Home" [ref=e121]:
+            - /url: https://www.pinalli.it/
+            - generic [ref=e122]: Home
+        - listitem [ref=e123]:
+          - generic [ref=e124]:
+            - img [ref=e125]
+            - generic [ref=e127]: Carrello
+    - generic [ref=e128]:
+      - heading "Il mio carrello" [level=2] [ref=e129]
+      - generic [ref=e130]:
+        - generic [ref=e131]:
+          - generic [ref=e132]:
+            - paragraph [ref=e134]: Ti mancano 10,50€ per la spedizione gratuita
+            - generic [ref=e136]:
+              - generic [ref=e137]:
+                - button "Remove cart item" [ref=e139] [cursor=pointer]:
+                  - img [ref=e140]
+                - img "no alt text" [ref=e142]
+              - generic [ref=e143]:
+                - generic [ref=e144]: Nabla
+                - generic [ref=e145]: Occhi
+                - generic [ref=e146]: Cupid’s Arrow Longwear Stylo
+                - generic [ref=e147]: "Arrow #2 - Brown"
+                - generic [ref=e148]:
+                  - generic [ref=e149]:
+                    - generic [ref=e151]: 19,50€
+                    - paragraph
+                  - generic [ref=e153]:
+                    - combobox "1" [ref=e154] [cursor=pointer]
+                    - textbox: "1"
+                    - img
+                    - group
+          - generic [ref=e155]:
+            - heading "Solo per te" [level=4] [ref=e156]
+            - generic [ref=e157]:
+              - paragraph [ref=e158]: GRATIS
+              - generic [ref=e159]:
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - generic [ref=e168]: Campioncini omaggio
+                - generic [ref=e169]:
+                  - paragraph [ref=e170]: Nessun campioncino selezionato
+                  - button "SELEZIONA" [ref=e171] [cursor=pointer]:
+                    - generic [ref=e172]:
+                      - generic [ref=e173]: SELEZIONA
+                      - img [ref=e174]
+            - generic [ref=e176]:
+              - paragraph [ref=e177]: GRATIS
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - img [ref=e180]
+                  - generic [ref=e185]: Pacchetti regalo
+                - generic [ref=e186]:
+                  - paragraph [ref=e187]: Nessun pacchetto regalo selezionato
+                  - button "AGGIUNGI" [ref=e188] [cursor=pointer]:
+                    - generic [ref=e189]:
+                      - generic [ref=e190]: AGGIUNGI
+                      - img [ref=e191]
+        - generic [ref=e193]:
+          - generic [ref=e194]:
+            - paragraph [ref=e196]:
+              - text: Con questo ordine potrai ottenere
+              - generic [ref=e197]: 20 PUNTI!
+            - img [ref=e199]
+          - generic [ref=e203]:
+            - heading "Riepilogo" [level=6] [ref=e204]
+            - generic [ref=e205]:
+              - generic [ref=e206]:
+                - paragraph [ref=e207]: Subtotale
+                - paragraph [ref=e208]: 19,50€
+              - generic [ref=e209]:
+                - paragraph [ref=e210]: Spedizione
+                - paragraph [ref=e211]: 4,50€
+              - generic [ref=e212]:
+                - generic [ref=e213]:
+                  - heading "Totale" [level=5] [ref=e214]
+                  - paragraph [ref=e215]: Iva inclusa
+                - heading "19,50€" [level=5] [ref=e216]
+              - generic [ref=e217]:
+                - generic [ref=e218]: "Paga a rate senza interessi:"
+                - img [ref=e220]
+                - img [ref=e225]
+                - img [ref=e229]
+              - link "Procedi" [ref=e231] [cursor=pointer]:
+                - /url: https://checkout.pinalli.it/cart/c/hWN8cbhGEMAqtNzGore5H3nH?key=7b5e7b708f04c8e8c238a2ece92a1a8a
+                - generic [ref=e232]: Procedi
+              - generic [ref=e233]:
+                - img [ref=e234]
+                - paragraph [ref=e241]: Se hai un codice sconto o una Gift Card puoi inserirlo in fase di pagamento.
+          - separator [ref=e242]
+          - generic [ref=e244]:
+            - generic [ref=e245]:
+              - img [ref=e246]
+              - text: Spedizione in 2/3 giorni lavorativi
+            - generic [ref=e248]:
+              - img [ref=e249]
+              - text: Ritiro in negozio in 3/4 giorni lavorativi
+            - generic [ref=e251]:
+              - img [ref=e252]
+              - text: Pagamenti sicuri al 100%
+          - separator [ref=e254]
+          - button "Hai bisogno di aiuto?" [ref=e256] [cursor=pointer]:
+            - generic [ref=e258]: Hai bisogno di aiuto?
+            - img [ref=e262]
+      - generic [ref=e264]:
+        - heading "Visti di recente" [level=2] [ref=e265]
+        - link "no alt text inserted + colori Nabla Occhi Cupid’s Arrow Longwear Stylo Matita occhi 19,50€ Seleziona" [ref=e270]:
+          - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61002
+          - generic [ref=e271]:
+            - button [ref=e273] [cursor=pointer]:
+              - img [ref=e274]
+            - img "no alt text inserted" [ref=e277]
+            - generic [ref=e278]:
+              - generic [ref=e284]: + colori
+              - generic [ref=e285]:
+                - generic [ref=e286]:
+                  - generic [ref=e287]: Nabla
+                  - generic [ref=e288]:
+                    - generic [ref=e289]: Occhi
+                    - generic [ref=e290]: Cupid’s Arrow Longwear Stylo
+                    - generic [ref=e291]: Matita occhi
+                - generic [ref=e294]: 19,50€
+            - button "Seleziona" [ref=e296] [cursor=pointer]:
+              - generic [ref=e297]: Seleziona
+    - generic [ref=e299]:
+      - generic [ref=e300]:
+        - img "Image Spedizione gratuita" [ref=e301]
+        - generic [ref=e302]:
+          - paragraph [ref=e303]: Spedizione gratuita
+          - paragraph [ref=e304]: da 30€ di spesa!
+      - generic [ref=e305]:
+        - img "Image Ritiro in Beauty Store" [ref=e306]
+        - generic [ref=e307]:
+          - paragraph [ref=e308]: Ritiro in Beauty Store
+          - paragraph [ref=e309]: sempre gratuito!
+      - generic [ref=e310]:
+        - img "Image Campioncini omaggio" [ref=e311]
+        - generic [ref=e312]:
+          - paragraph [ref=e313]: Campioncini omaggio
+          - paragraph [ref=e314]: ad ogni acquisto!
+      - generic [ref=e315]:
+        - img "Image Assistenza clienti" [ref=e316]
+        - generic [ref=e317]:
+          - paragraph [ref=e318]: Assistenza clienti
+          - paragraph [ref=e319]: via mail o telefono!
+    - generic [ref=e321]:
+      - generic [ref=e322]:
+        - generic [ref=e323]:
+          - generic [ref=e324]: Hai bisogno di noi?
+          - generic [ref=e325]:
+            - generic [ref=e326]:
+              - link "eshop@pinalli.it" [ref=e327]:
+                - /url: mailto:eshop@pinalli.it
+              - link:
+                - /url: "tel: "
+              - link "Assistenza Whatsapp" [ref=e328]:
+                - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - paragraph [ref=e329]: Da Lunedì a Venerdì
+            - paragraph [ref=e330]: 8:30 - 13:00 / 14:00 - 17:00
+        - button "Assistenza e Ordini" [ref=e333] [cursor=pointer]:
+          - generic [ref=e335]: Assistenza e Ordini
+          - img [ref=e339]
+        - button "Prodotti e Servizi" [ref=e343] [cursor=pointer]:
+          - generic [ref=e345]: Prodotti e Servizi
+          - img [ref=e349]
+        - button "Mondo Pinalli" [ref=e353] [cursor=pointer]:
+          - generic [ref=e355]: Mondo Pinalli
+          - img [ref=e359]
+        - generic [ref=e361]:
+          - generic [ref=e362]: Seguici su
+          - generic:
+            - link "Logo Social":
+              - /url: https://www.facebook.com/profumeriepinalli/
+              - img "Logo Social"
+            - link "Logo Social":
+              - /url: https://www.instagram.com/pinalli
+              - img "Logo Social"
+            - link "Logo Social":
+              - /url: https://www.tiktok.com/@pinalli_official
+              - img "Logo Social"
+      - generic [ref=e363]:
+        - link "Clicca qui per verificare se questo sito è legale" [ref=e365]:
+          - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+          - img "Clicca qui per verificare se questo sito è legale" [ref=e366]
+        - generic [ref=e367]:
+          - img "Logo Pinalli" [ref=e369]
+          - generic:
+            - generic:
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+          - generic [ref=e371]:
+            - link "Condizioni generali di vendita" [ref=e372]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+            - link "Condizioni generali del programma fedeltà" [ref=e373]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+            - link "Privacy policy" [ref=e374]:
+              - /url: https://www.pinalli.it/pages/privacy-policy
+            - link "Cookie policy" [ref=e375]:
+              - /url: https://www.pinalli.it/pages/cookie-policy
+            - link "Note legali" [ref=e376]:
+              - /url: https://www.pinalli.it/pages/note-legali
+            - link "Mappa del sito" [ref=e377]:
+              - /url: https://www.pinalli.it/sitemap
+            - link "Aggiorna Consensi Cookie" [ref=e378]:
+              - /url: "#"
+  - alert [ref=e380]
+```

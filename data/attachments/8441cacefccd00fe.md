@@ -1,0 +1,563 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e15]:
+          - text: SAN VALENTINO
+          - link "Scopri" [ref=e16]:
+            - /url: /promozione-san-valentino
+      - generic [ref=e18]:
+        - paragraph [ref=e20]: SAN VALENTINO
+        - paragraph [ref=e21]:
+          - text: Dal
+          - strong [ref=e22]: 26 gennaio al 15 febbraio
+          - text: "tante idee regalo per San Valentino scontate su Pinalli: fino al"
+          - strong [ref=e23]: "-40"
+          - text: "% su tantissime fragranze!"
+        - link "Scopri" [ref=e25]:
+          - /url: https://www.pinalli.it/promozione-san-valentino
+          - generic [ref=e26]:
+            - generic [ref=e27]: Scopri
+            - img [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e33] [cursor=pointer]:
+          - img [ref=e34]
+        - link [ref=e39]:
+          - /url: https://www.pinalli.it
+          - img [ref=e40]
+        - generic [ref=e50]:
+          - img [ref=e52] [cursor=pointer]
+          - button [ref=e56] [cursor=pointer]:
+            - img [ref=e57]
+          - button [ref=e59] [cursor=pointer]:
+            - img [ref=e61]
+      - combobox [ref=e64]:
+        - search [ref=e65]:
+          - generic [ref=e66]:
+            - textbox "Cerca una marca, un prodotto…" [ref=e68]
+            - button "search" [ref=e69] [cursor=pointer]:
+              - img [ref=e70]
+    - navigation [ref=e73]:
+      - generic [ref=e75]:
+        - link "Promo" [ref=e76]:
+          - /url: https://www.pinalli.it/promo
+          - generic [ref=e78]: Promo
+        - link "Brand" [ref=e79]:
+          - /url: https://www.pinalli.it/brand
+          - generic [ref=e81]: Brand
+        - link "Omaggi" [ref=e82]:
+          - /url: https://www.pinalli.it/gwps
+          - generic [ref=e84]: Omaggi
+        - link "Make-up" [ref=e85]:
+          - /url: https://www.pinalli.it/make-up
+          - generic [ref=e87]: Make-up
+        - link "Profumi" [ref=e88]:
+          - /url: https://www.pinalli.it/profumi
+          - generic [ref=e90]: Profumi
+        - link "Viso" [ref=e91]:
+          - /url: https://www.pinalli.it/trattamenti-viso
+          - generic [ref=e93]: Viso
+        - link "Capelli" [ref=e94]:
+          - /url: https://www.pinalli.it/trattamenti-capelli
+          - generic [ref=e96]: Capelli
+        - link "Dermocosmesi" [ref=e97]:
+          - /url: https://www.pinalli.it/dermocosmesi
+          - generic [ref=e99]: Dermocosmesi
+        - link "Corpo" [ref=e100]:
+          - /url: https://www.pinalli.it/trattamenti-corpo
+          - generic [ref=e102]: Corpo
+        - link "Healthcare" [ref=e103]:
+          - /url: https://www.pinalli.it/healthcare-e-altro
+          - generic [ref=e105]: Healthcare
+        - link "Idee regalo e altro" [ref=e106]:
+          - /url: https://www.pinalli.it/idee-regalo
+          - generic [ref=e108]: Idee regalo e altro
+        - link "Uomo" [ref=e109]:
+          - /url: https://www.pinalli.it/beauty-uomo
+          - generic [ref=e111]: Uomo
+        - link "Solari" [ref=e112]:
+          - /url: https://www.pinalli.it/solari
+          - generic [ref=e114]: Solari
+    - generic [ref=e115]:
+      - heading [level=2] [ref=e116]: Recensioni
+      - list [ref=e117]:
+        - listitem [ref=e118]:
+          - article [ref=e119]:
+            - generic [ref=e120]: ★★★★★
+            - paragraph [ref=e121]:
+              - strong [ref=e122]: Marzia Bianco
+            - time [ref=e123]: 14/01/2026
+            - paragraph [ref=e124]: Fantastico!
+        - listitem [ref=e125]:
+          - article [ref=e126]:
+            - generic [ref=e127]: ★★★★★
+            - paragraph [ref=e128]:
+              - strong [ref=e129]: Anonimo
+            - time [ref=e130]: 31/12/2025
+            - paragraph [ref=e131]: Tutto ok
+        - listitem [ref=e132]:
+          - article [ref=e133]:
+            - generic [ref=e134]: ★★★★★
+            - paragraph [ref=e135]:
+              - strong [ref=e136]: Anonimo
+            - time [ref=e137]: 29/12/2025
+            - paragraph [ref=e138]: Acquisto consigliato sia per la cura e i tempi di consegna che per il prodotto che si è rivelato proprio come viene proposto
+        - listitem [ref=e139]:
+          - article [ref=e140]:
+            - generic [ref=e141]: ★★★★★
+            - paragraph [ref=e142]:
+              - strong [ref=e143]: Maria
+            - time [ref=e144]: 26/12/2025
+            - paragraph [ref=e145]: Le matite che non possono mai mancare nei beauty, stupende
+        - listitem [ref=e146]:
+          - article [ref=e147]:
+            - generic [ref=e148]: ★★★★★
+            - paragraph [ref=e149]:
+              - strong [ref=e150]: Anonimo
+            - time [ref=e151]: 24/12/2025
+            - paragraph [ref=e152]: Ottimooo
+    - navigation "breadcrumb" [ref=e154]:
+      - list [ref=e155]:
+        - listitem [ref=e156]:
+          - link "Home" [ref=e158]:
+            - /url: https://www.pinalli.it/
+            - generic [ref=e159]: Home
+        - listitem [ref=e160]:
+          - generic [ref=e161]:
+            - img [ref=e162]
+            - generic [ref=e164]: Cupid’s Arrow Longwear Stylo
+    - generic [ref=e165]:
+      - generic [ref=e167]:
+        - generic [ref=e169]:
+          - link "Nabla" [ref=e171]:
+            - /url: /brand/nabla
+          - generic [ref=e172]:
+            - text: Occhi
+            - heading "Cupid’s Arrow Longwear Stylo" [level=1] [ref=e173]
+          - paragraph [ref=e174]: Matita occhi, Eyeliner, Ombretto crema
+        - button [ref=e191] [cursor=pointer]:
+          - img [ref=e192]
+        - generic [ref=e194]:
+          - generic [ref=e195]:
+            - generic [ref=e197] [cursor=pointer]:
+              - generic [ref=e198]: Colore/Variante
+              - generic [ref=e199]:
+                - 'combobox "Arrow #2 - Brown" [ref=e200]':
+                  - generic [ref=e201]:
+                    - link [ref=e203]:
+                      - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61002
+                    - paragraph [ref=e205]: "Arrow #2 - Brown"
+                - textbox: "1"
+                - img
+                - group:
+                  - generic: Colore/Variante
+            - generic [ref=e206]:
+              - link [ref=e208]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61001
+              - link [ref=e211]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61007
+              - link [ref=e214]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2nammmy100003
+              - link [ref=e217]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000005
+              - link [ref=e220]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000006
+              - link [ref=e223]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000007
+              - link [ref=e226]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61002
+              - link [ref=e229]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61003
+              - link [ref=e232]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na8870000001
+              - link [ref=e235]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na8870000002
+              - link [ref=e238]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na8870000003
+              - link [ref=e241]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61005
+              - link [ref=e244]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61006
+              - link [ref=e247]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000009
+              - link [ref=e250]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2nammmy100007
+              - link [ref=e253]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2nammmy100005
+              - link [ref=e256]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2nammmy100004
+              - link [ref=e259]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000086
+              - link [ref=e262]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000084
+              - link [ref=e265]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000087
+              - link [ref=e268]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000085
+              - link [ref=e271]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na887y61004
+                - img [ref=e274]
+              - link [ref=e277]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2nammmy100002
+                - generic [ref=e278]:
+                  - img [ref=e280]
+                  - img [ref=e283]
+              - link [ref=e287]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000010
+                - generic [ref=e288]:
+                  - img [ref=e290]
+                  - img [ref=e293]
+              - link [ref=e297]:
+                - /url: /products/make-up-cupids-arrow-longwear-stylo-2na0000000008
+                - img [ref=e300]
+            - paragraph [ref=e302]: "Formato: 0.8gr"
+          - generic [ref=e303]:
+            - generic [ref=e304]:
+              - generic [ref=e306]: 19,50€
+              - generic [ref=e307]:
+                - img [ref=e308]
+                - paragraph [ref=e315]:
+                  - strong [ref=e316]: Info
+            - paragraph [ref=e320]:
+              - generic [ref=e321]: 20 PUNTI
+              - text: Spedizione in 2/3 gg e gratuita da 30€!
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - generic [ref=e325]:
+                - generic [ref=e326]: Q.tà
+                - generic [ref=e327]:
+                  - combobox "1" [ref=e328] [cursor=pointer]:
+                    - strong [ref=e329]: "1"
+                  - textbox: "1"
+                  - img
+                  - group:
+                    - generic: Q.tà
+              - button "Aggiungi al carrello" [active] [ref=e331] [cursor=pointer]:
+                - generic [ref=e332]: Aggiungi al carrello
+            - generic [ref=e333]:
+              - generic [ref=e334]: "Paga a rate senza interessi:"
+              - img [ref=e336]
+              - img [ref=e341]
+              - img [ref=e345]
+      - separator [ref=e347]
+      - generic [ref=e348]:
+        - generic [ref=e349]:
+          - generic [ref=e350]: Descrizione
+          - generic [ref=e351]:
+            - generic [ref=e352]:
+              - paragraph [ref=e353]:
+                - text: Cupid’s Arrow Longwear Stylo di
+                - link "Nabla" [ref=e354]:
+                  - /url: https://www.pinalli.it/brand/nabla
+                - text: è la
+                - link "matita occhi" [ref=e355]:
+                  - /url: https://www.pinalli.it/make-up/make-up-occhi/matita-occhi
+                - text: multitasking perfetta per rivoluzionare il tuo
+                - link "make-up" [ref=e356]:
+                  - /url: https://www.pinalli.it/make-up
+                - text: quotidiano. Grazie alla sua formula innovativa, cremosa e versatile, si stende con facilità regalando un colore pieno, intenso e uniforme già dalla prima passata. Usala come matita,
+                - link "eyeliner" [ref=e357]:
+                  - /url: https://www.pinalli.it/make-up/make-up-occhi/eyeliner
+                - text: o ombretto in crema per creare look naturali, smokey o grafici, perfetti dal mattino alla sera.
+                - text: La tenuta è lunga durata e resistente a sbavature, anche nelle giornate più impegnative. Il design compatto ed elegante, completo di temperino integrato, la rende ideale da portare sempre con te per ritocchi veloci. Dermatologicamente testata e adatta anche alle pelli più sensibili, Cupid’s Arrow Longwear Stylo è vegan e cruelty free, disponibile in un’ampia gamma di tonalità per esaltare ogni incarnato e stile.
+                - text: Esplora tutta la gamma Nabla nella sezione make-up Nabla e lasciati ispirare dalle migliori proposte per il trucco occhi nelle categorie
+                - link "make-up occhi" [ref=e358]:
+                  - /url: https://www.pinalli.it/make-up/make-up-occhi
+                - text: ", eyeliner, kajal,"
+                - link "mascara" [ref=e359]:
+                  - /url: https://www.pinalli.it/make-up/make-up-occhi/mascara
+                - text: ", matita occhi, ombretti e"
+                - link "palette" [ref=e360]:
+                  - /url: https://www.pinalli.it/make-up/make-up-occhi/palette
+                - text: .
+              - paragraph [ref=e361]: "SKU: 2NA887Y61002"
+              - paragraph [ref=e362]:
+                - link "Contatto del produttore" [ref=e363]:
+                  - /url: /pages/gpsr
+            - generic [ref=e365] [cursor=pointer]: Leggi di più
+        - button "Utilizzo" [ref=e367] [cursor=pointer]:
+          - heading "Utilizzo" [level=2] [ref=e369]
+          - img [ref=e373]
+        - button "Composizione" [ref=e376] [cursor=pointer]:
+          - heading "Composizione" [level=2] [ref=e378]
+          - img [ref=e382]
+        - button "Recensioni" [ref=e385] [cursor=pointer]:
+          - heading "Recensioni" [level=2] [ref=e388]
+          - img [ref=e393]
+      - generic [ref=e395]:
+        - heading "Completa il tuo acquisto con" [level=2] [ref=e396]
+        - generic [ref=e399]:
+          - link "Edizione Limitata Cupid's Arrow - Cool Serenity Holiday Kit Nabla Occhi Cupid's Arrow - Cool Serenity Holiday Kit Eyeliner 59,00€ Aggiungi al carrello" [ref=e401]:
+            - /url: /products/make-up-cupids-arrow-cool-serenity-holiday-kit-2na0000000049
+            - generic [ref=e402]:
+              - generic [ref=e403]:
+                - generic [ref=e405]: Edizione Limitata
+                - button [ref=e406] [cursor=pointer]:
+                  - img [ref=e407]
+              - img "Cupid's Arrow - Cool Serenity Holiday Kit" [ref=e410]
+              - generic [ref=e413]:
+                - generic [ref=e414]:
+                  - generic [ref=e415]: Nabla
+                  - generic [ref=e416]:
+                    - generic [ref=e417]: Occhi
+                    - generic [ref=e418]: Cupid's Arrow - Cool Serenity Holiday Kit
+                    - generic [ref=e419]: Eyeliner
+                - generic [ref=e422]: 59,00€
+              - button "Aggiungi al carrello" [ref=e425] [cursor=pointer]:
+                - generic [ref=e426]: Aggiungi al carrello
+          - link "Edizione Limitata Cupid's Arrow - Rose Poetry Holiday Kit Nabla Labbra Cupid's Arrow - Rose Poetry Holiday Kit Eyeliner 59,00€ Aggiungi al carrello" [ref=e428]:
+            - /url: /products/make-up-cupids-arrow-rose-poetry-holiday-kit-2na0000000050
+            - generic [ref=e429]:
+              - generic [ref=e430]:
+                - generic [ref=e432]: Edizione Limitata
+                - button [ref=e433] [cursor=pointer]:
+                  - img [ref=e434]
+              - img "Cupid's Arrow - Rose Poetry Holiday Kit" [ref=e437]
+              - generic [ref=e440]:
+                - generic [ref=e441]:
+                  - generic [ref=e442]: Nabla
+                  - generic [ref=e443]:
+                    - generic [ref=e444]: Labbra
+                    - generic [ref=e445]: Cupid's Arrow - Rose Poetry Holiday Kit
+                    - generic [ref=e446]: Eyeliner
+                - generic [ref=e449]: 59,00€
+              - button "Aggiungi al carrello" [ref=e452] [cursor=pointer]:
+                - generic [ref=e453]: Aggiungi al carrello
+          - link "Lip Candy Oil + colori Nabla Labbra Lip Candy Oil Gloss 23,00€ Seleziona" [ref=e455]:
+            - /url: /products/make-up-lip-candy-oil-2na0000000043
+            - generic [ref=e456]:
+              - button [ref=e458] [cursor=pointer]:
+                - img [ref=e459]
+              - img "Lip Candy Oil" [ref=e462]
+              - generic [ref=e463]:
+                - generic [ref=e469]: + colori
+                - generic [ref=e470]:
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: Nabla
+                    - generic [ref=e473]:
+                      - generic [ref=e474]: Labbra
+                      - generic [ref=e475]: Lip Candy Oil
+                      - generic [ref=e476]: Gloss
+                  - generic [ref=e479]: 23,00€
+              - button "Seleziona" [ref=e481] [cursor=pointer]:
+                - generic [ref=e482]: Seleziona
+          - link "Close-Up Lip Shaper + colori Nabla Labbra Close-Up Lip Shaper Matita labbra 18,00€ Seleziona" [ref=e484]:
+            - /url: /products/make-up-close-up-lip-shaper-2na887l10008
+            - generic [ref=e485]:
+              - button [ref=e487] [cursor=pointer]:
+                - img [ref=e488]
+              - img "Close-Up Lip Shaper" [ref=e491]
+              - generic [ref=e492]:
+                - generic [ref=e498]: + colori
+                - generic [ref=e499]:
+                  - generic [ref=e500]:
+                    - generic [ref=e501]: Nabla
+                    - generic [ref=e502]:
+                      - generic [ref=e503]: Labbra
+                      - generic [ref=e504]: Close-Up Lip Shaper
+                      - generic [ref=e505]: Matita labbra
+                  - generic [ref=e508]: 18,00€
+              - button "Seleziona" [ref=e510] [cursor=pointer]:
+                - generic [ref=e511]: Seleziona
+          - link "Angel Aura Bronze + colori Nabla Viso Angel Aura Bronze Bronzer 32,00€ Seleziona" [ref=e513]:
+            - /url: /products/make-up-angel-aura-bronze-2na0000000037
+            - generic [ref=e514]:
+              - button [ref=e516] [cursor=pointer]:
+                - img [ref=e517]
+              - img "Angel Aura Bronze" [ref=e520]
+              - generic [ref=e521]:
+                - generic [ref=e527]: + colori
+                - generic [ref=e528]:
+                  - generic [ref=e529]:
+                    - generic [ref=e530]: Nabla
+                    - generic [ref=e531]:
+                      - generic [ref=e532]: Viso
+                      - generic [ref=e533]: Angel Aura Bronze
+                      - generic [ref=e534]: Bronzer
+                  - generic [ref=e537]: 32,00€
+              - button "Seleziona" [ref=e539] [cursor=pointer]:
+                - generic [ref=e540]: Seleziona
+          - link "Freckle Maker Nabla Viso Freckle Maker Correttori 19,50€ Aggiungi al carrello" [ref=e542]:
+            - /url: /products/make-up-freckle-maker-2na887v00001
+            - generic [ref=e543]:
+              - button [ref=e545] [cursor=pointer]:
+                - img [ref=e546]
+              - img "Freckle Maker" [ref=e549]
+              - generic [ref=e552]:
+                - generic [ref=e553]:
+                  - generic [ref=e554]: Nabla
+                  - generic [ref=e555]:
+                    - generic [ref=e556]: Viso
+                    - generic [ref=e557]: Freckle Maker
+                    - generic [ref=e558]: Correttori
+                - generic [ref=e561]: 19,50€
+              - button "Aggiungi al carrello" [ref=e564] [cursor=pointer]:
+                - generic [ref=e565]: Aggiungi al carrello
+          - link "Art Of Skin Contour Stick + colori Nabla Viso Art Of Skin Contour Stick Contouring viso 26,00€ Seleziona" [ref=e567]:
+            - /url: /products/make-up-art-of-skin-contour-stick-2na0000000056
+            - generic [ref=e568]:
+              - button [ref=e570] [cursor=pointer]:
+                - img [ref=e571]
+              - img "Art Of Skin Contour Stick" [ref=e574]
+              - generic [ref=e575]:
+                - generic [ref=e581]: + colori
+                - generic [ref=e582]:
+                  - generic [ref=e583]:
+                    - generic [ref=e584]: Nabla
+                    - generic [ref=e585]:
+                      - generic [ref=e586]: Viso
+                      - generic [ref=e587]: Art Of Skin Contour Stick
+                      - generic [ref=e588]: Contouring viso
+                  - generic [ref=e591]: 26,00€
+              - button "Seleziona" [ref=e593] [cursor=pointer]:
+                - generic [ref=e594]: Seleziona
+          - link "Art Of Skin Foundation Stick + colori Nabla Viso Art Of Skin Foundation Stick Fondotinta 29,00€ Seleziona" [ref=e596]:
+            - /url: /products/make-up-art-of-skin-foundation-stick-2na0000000065
+            - generic [ref=e597]:
+              - button [ref=e599] [cursor=pointer]:
+                - img [ref=e600]
+              - img "Art Of Skin Foundation Stick" [ref=e603]
+              - generic [ref=e604]:
+                - generic [ref=e610]: + colori
+                - generic [ref=e611]:
+                  - generic [ref=e612]:
+                    - generic [ref=e613]: Nabla
+                    - generic [ref=e614]:
+                      - generic [ref=e615]: Viso
+                      - generic [ref=e616]: Art Of Skin Foundation Stick
+                      - generic [ref=e617]: Fondotinta
+                  - generic [ref=e620]: 29,00€
+              - button "Seleziona" [ref=e622] [cursor=pointer]:
+                - generic [ref=e623]: Seleziona
+          - link "True Signature Eyeliner + colori Nabla Occhi True Signature Eyeliner Eyeliner 25,00€ Seleziona" [ref=e625]:
+            - /url: /products/make-up-true-signature-eyeliner-2na0000000082
+            - generic [ref=e626]:
+              - button [ref=e628] [cursor=pointer]:
+                - img [ref=e629]
+              - img "True Signature Eyeliner" [ref=e632]
+              - generic [ref=e633]:
+                - generic [ref=e639]: + colori
+                - generic [ref=e640]:
+                  - generic [ref=e641]:
+                    - generic [ref=e642]: Nabla
+                    - generic [ref=e643]:
+                      - generic [ref=e644]: Occhi
+                      - generic [ref=e645]: True Signature Eyeliner
+                      - generic [ref=e646]: Eyeliner
+                  - generic [ref=e649]: 25,00€
+              - button "Seleziona" [ref=e651] [cursor=pointer]:
+                - generic [ref=e652]: Seleziona
+          - link "Skin Glazing + colori Nabla Viso Skin Glazing Blush 25,00€ Seleziona" [ref=e654]:
+            - /url: /products/make-up-skin-glazing-2na887vb1001
+            - generic [ref=e655]:
+              - button [ref=e657] [cursor=pointer]:
+                - img [ref=e658]
+              - img "Skin Glazing" [ref=e661]
+              - generic [ref=e662]:
+                - generic [ref=e668]: + colori
+                - generic [ref=e669]:
+                  - generic [ref=e670]:
+                    - generic [ref=e671]: Nabla
+                    - generic [ref=e672]:
+                      - generic [ref=e673]: Viso
+                      - generic [ref=e674]: Skin Glazing
+                      - generic [ref=e675]: Blush
+                  - generic [ref=e678]: 25,00€
+              - button "Seleziona" [ref=e680] [cursor=pointer]:
+                - generic [ref=e681]: Seleziona
+    - generic [ref=e686]:
+      - generic [ref=e687]:
+        - img "Image Spedizione gratuita" [ref=e688]
+        - generic [ref=e689]:
+          - paragraph [ref=e690]: Spedizione gratuita
+          - paragraph [ref=e691]: da 30€ di spesa!
+      - generic [ref=e692]:
+        - img "Image Ritiro in Beauty Store" [ref=e693]
+        - generic [ref=e694]:
+          - paragraph [ref=e695]: Ritiro in Beauty Store
+          - paragraph [ref=e696]: sempre gratuito!
+      - generic [ref=e697]:
+        - img "Image Campioncini omaggio" [ref=e698]
+        - generic [ref=e699]:
+          - paragraph [ref=e700]: Campioncini omaggio
+          - paragraph [ref=e701]: ad ogni acquisto!
+      - generic [ref=e702]:
+        - img "Image Assistenza clienti" [ref=e703]
+        - generic [ref=e704]:
+          - paragraph [ref=e705]: Assistenza clienti
+          - paragraph [ref=e706]: via mail o telefono!
+    - generic [ref=e708]:
+      - generic [ref=e709]:
+        - generic [ref=e710]:
+          - generic [ref=e711]: Hai bisogno di noi?
+          - generic [ref=e712]:
+            - generic [ref=e713]:
+              - link "eshop@pinalli.it" [ref=e714]:
+                - /url: mailto:eshop@pinalli.it
+              - link:
+                - /url: "tel: "
+              - link "Assistenza Whatsapp" [ref=e715]:
+                - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - paragraph [ref=e716]: Da Lunedì a Venerdì
+            - paragraph [ref=e717]: 8:30 - 13:00 / 14:00 - 17:00
+        - button "Assistenza e Ordini" [ref=e720] [cursor=pointer]:
+          - generic [ref=e722]: Assistenza e Ordini
+          - img [ref=e726]
+        - button "Prodotti e Servizi" [ref=e730] [cursor=pointer]:
+          - generic [ref=e732]: Prodotti e Servizi
+          - img [ref=e736]
+        - button "Mondo Pinalli" [ref=e740] [cursor=pointer]:
+          - generic [ref=e742]: Mondo Pinalli
+          - img [ref=e746]
+        - generic [ref=e748]:
+          - generic [ref=e749]: Seguici su
+          - generic:
+            - link "Logo Social":
+              - /url: https://www.facebook.com/profumeriepinalli/
+              - img "Logo Social"
+            - link "Logo Social":
+              - /url: https://www.instagram.com/pinalli
+              - img "Logo Social"
+            - link "Logo Social":
+              - /url: https://www.tiktok.com/@pinalli_official
+              - img "Logo Social"
+      - generic [ref=e750]:
+        - link "Clicca qui per verificare se questo sito è legale" [ref=e752]:
+          - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+          - img "Clicca qui per verificare se questo sito è legale" [ref=e753]
+        - generic [ref=e754]:
+          - img "Logo Pinalli" [ref=e756]
+          - generic:
+            - generic:
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+              - img "Logo Pagamento"
+          - generic [ref=e758]:
+            - link "Condizioni generali di vendita" [ref=e759]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+            - link "Condizioni generali del programma fedeltà" [ref=e760]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+            - link "Privacy policy" [ref=e761]:
+              - /url: https://www.pinalli.it/pages/privacy-policy
+            - link "Cookie policy" [ref=e762]:
+              - /url: https://www.pinalli.it/pages/cookie-policy
+            - link "Note legali" [ref=e763]:
+              - /url: https://www.pinalli.it/pages/note-legali
+            - link "Mappa del sito" [ref=e764]:
+              - /url: https://www.pinalli.it/sitemap
+            - link "Aggiorna Consensi Cookie" [ref=e765]:
+              - /url: "#"
+  - alert [ref=e767]
+```

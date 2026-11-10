@@ -1,0 +1,381 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e15]:
+          - text: SAN VALENTINO
+          - link "Scopri" [ref=e16] [cursor=pointer]:
+            - /url: /promozione-san-valentino
+      - generic [ref=e18]:
+        - paragraph [ref=e20]: SAN VALENTINO
+        - paragraph [ref=e21]:
+          - text: Dal
+          - strong [ref=e22]: 26 gennaio al 15 febbraio
+          - text: "tante idee regalo per San Valentino scontate su Pinalli: fino al"
+          - strong [ref=e23]: "-40"
+          - text: "% su tantissime fragranze!"
+        - link "Scopri" [ref=e25] [cursor=pointer]:
+          - /url: https://www.pinalli.it/promozione-san-valentino
+          - generic [ref=e26]:
+            - generic [ref=e27]: Scopri
+            - img [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e32]:
+        - button [ref=e33] [cursor=pointer]:
+          - img [ref=e34]
+        - link [ref=e39] [cursor=pointer]:
+          - /url: https://www.pinalli.it
+          - img [ref=e40]
+        - generic [ref=e50]:
+          - generic [ref=e53] [cursor=pointer]: FB
+          - link [ref=e55] [cursor=pointer]:
+            - /url: https://www.pinalli.it/account/wishlist
+            - img [ref=e56]
+          - button [ref=e58] [cursor=pointer]:
+            - img [ref=e60]
+      - combobox [ref=e63]:
+        - search [ref=e64]:
+          - generic [ref=e65]:
+            - textbox "Cerca una marca, un prodotto…" [ref=e67]
+            - button "search" [ref=e68] [cursor=pointer]:
+              - img [ref=e69]
+    - navigation [ref=e72]:
+      - generic [ref=e74]:
+        - link "Promo" [ref=e75] [cursor=pointer]:
+          - /url: https://www.pinalli.it/promo
+          - generic [ref=e77]: Promo
+        - link "Brand" [ref=e78] [cursor=pointer]:
+          - /url: https://www.pinalli.it/brand
+          - generic [ref=e80]: Brand
+        - link "Omaggi" [ref=e81] [cursor=pointer]:
+          - /url: https://www.pinalli.it/gwps
+          - generic [ref=e83]: Omaggi
+        - link "Make-up" [ref=e84] [cursor=pointer]:
+          - /url: https://www.pinalli.it/make-up
+          - generic [ref=e86]: Make-up
+        - link "Profumi" [ref=e87] [cursor=pointer]:
+          - /url: https://www.pinalli.it/profumi
+          - generic [ref=e89]: Profumi
+        - link "Viso" [ref=e90] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-viso
+          - generic [ref=e92]: Viso
+        - link "Capelli" [ref=e93] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-capelli
+          - generic [ref=e95]: Capelli
+        - link "Dermocosmesi" [ref=e96] [cursor=pointer]:
+          - /url: https://www.pinalli.it/dermocosmesi
+          - generic [ref=e98]: Dermocosmesi
+        - link "Corpo" [ref=e99] [cursor=pointer]:
+          - /url: https://www.pinalli.it/trattamenti-corpo
+          - generic [ref=e101]: Corpo
+        - link "Healthcare" [ref=e102] [cursor=pointer]:
+          - /url: https://www.pinalli.it/healthcare-e-altro
+          - generic [ref=e104]: Healthcare
+        - link "Idee regalo e altro" [ref=e105] [cursor=pointer]:
+          - /url: https://www.pinalli.it/idee-regalo
+          - generic [ref=e107]: Idee regalo e altro
+        - link "Uomo" [ref=e108] [cursor=pointer]:
+          - /url: https://www.pinalli.it/beauty-uomo
+          - generic [ref=e110]: Uomo
+        - link "Solari" [ref=e111] [cursor=pointer]:
+          - /url: https://www.pinalli.it/solari
+          - generic [ref=e113]: Solari
+    - navigation "breadcrumb" [ref=e115]:
+      - list [ref=e116]:
+        - listitem [ref=e117]:
+          - link "Home" [ref=e119] [cursor=pointer]:
+            - /url: https://www.pinalli.it/
+            - generic [ref=e120]: Home
+        - listitem [ref=e121]:
+          - generic [ref=e122]:
+            - img [ref=e123]
+            - generic [ref=e125]: Wishlist
+    - generic [ref=e127]:
+      - generic [ref=e128]:
+        - img [ref=e129]
+        - paragraph [ref=e134]: My Pinalli Menu
+      - generic [ref=e135]:
+        - heading "Wishlist" [level=2] [ref=e137]
+        - generic [ref=e139]:
+          - link "no alt text inserted Omaggio Nabeel Oil Perfume Irth Roll On Oil Perfume Huile de Parfum Unisex 8,00€ Aggiungi al carrello" [ref=e140] [cursor=pointer]:
+            - /url: /products/profumi-irth-roll-on-oil-perfume-2nb0000000079
+            - generic [ref=e141]:
+              - button [ref=e143]:
+                - img [ref=e144]
+              - img "no alt text inserted" [ref=e147]
+              - generic [ref=e148]:
+                - generic [ref=e152]: Omaggio
+                - generic [ref=e153]:
+                  - generic [ref=e154]:
+                    - generic [ref=e155]: Nabeel
+                    - generic [ref=e156]:
+                      - generic [ref=e157]: Oil Perfume
+                      - generic [ref=e158]: Irth Roll On Oil Perfume
+                      - generic [ref=e159]: Huile de Parfum Unisex
+                  - generic [ref=e162]: 8,00€
+              - button "Aggiungi al carrello" [ref=e165]:
+                - generic [ref=e166]: Aggiungi al carrello
+          - link "no alt text inserted Omaggio Nabeel Oil Perfume Ma'Alaina Roll On Oil Perfume Huile de Parfum Unisex 8,00€ Aggiungi al carrello" [ref=e167] [cursor=pointer]:
+            - /url: /products/profumi-maalaina-roll-on-oil-perfume-2nb0000000070
+            - generic [ref=e168]:
+              - button [ref=e170]:
+                - img [ref=e171]
+              - img "no alt text inserted" [ref=e174]
+              - generic [ref=e175]:
+                - generic [ref=e179]: Omaggio
+                - generic [ref=e180]:
+                  - generic [ref=e181]:
+                    - generic [ref=e182]: Nabeel
+                    - generic [ref=e183]:
+                      - generic [ref=e184]: Oil Perfume
+                      - generic [ref=e185]: Ma'Alaina Roll On Oil Perfume
+                      - generic [ref=e186]: Huile de Parfum Unisex
+                  - generic [ref=e189]: 8,00€
+              - button "Aggiungi al carrello" [ref=e192]:
+                - generic [ref=e193]: Aggiungi al carrello
+          - link "no alt text inserted Omaggio Nabeel Oil Perfume Fudge Roll-On Oil Perfume Huile de Parfum Unisex 8,00€ Aggiungi al carrello" [ref=e194] [cursor=pointer]:
+            - /url: /products/profumi-fudge-roll-on-oil-perfume-2nb0000000090
+            - generic [ref=e195]:
+              - button [ref=e197]:
+                - img [ref=e198]
+              - img "no alt text inserted" [ref=e201]
+              - generic [ref=e202]:
+                - generic [ref=e206]: Omaggio
+                - generic [ref=e207]:
+                  - generic [ref=e208]:
+                    - generic [ref=e209]: Nabeel
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: Oil Perfume
+                      - generic [ref=e212]: Fudge Roll-On Oil Perfume
+                      - generic [ref=e213]: Huile de Parfum Unisex
+                  - generic [ref=e216]: 8,00€
+              - button "Aggiungi al carrello" [ref=e219]:
+                - generic [ref=e220]: Aggiungi al carrello
+          - link "-30% no alt text inserted Yankee Candle Signature Reed Diffuser Ocean Air Diffusore di Profumo 13,93€ 19,90€ Aggiungi al carrello" [ref=e221] [cursor=pointer]:
+            - /url: /products/healthcare-e-altro-ocean-air-1yc0000000479
+            - generic [ref=e222]:
+              - generic [ref=e223]:
+                - generic [ref=e226]: "-30%"
+                - button [ref=e227]:
+                  - img [ref=e228]
+              - img "no alt text inserted" [ref=e231]
+              - generic [ref=e234]:
+                - generic [ref=e235]:
+                  - generic [ref=e236]: Yankee Candle
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Signature Reed Diffuser
+                    - generic [ref=e239]: Ocean Air
+                    - generic [ref=e240]: Diffusore di Profumo
+                - generic [ref=e242]:
+                  - generic [ref=e243]: 13,93€
+                  - generic [ref=e244]: 19,90€
+              - button "Aggiungi al carrello" [ref=e247]:
+                - generic [ref=e248]: Aggiungi al carrello
+          - link "-40% no alt text inserted Yankee Candle Signature Reed Diffuser Iced Berry Lemonade Diffusore di Profumo 11,94€ 19,90€ Aggiungi al carrello" [ref=e249] [cursor=pointer]:
+            - /url: /products/healthcare-e-altro-iced-berry-lemonade-1yc0000000494
+            - generic [ref=e250]:
+              - generic [ref=e251]:
+                - generic [ref=e254]: "-40%"
+                - button [ref=e255]:
+                  - img [ref=e256]
+              - img "no alt text inserted" [ref=e259]
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - generic [ref=e264]: Yankee Candle
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: Signature Reed Diffuser
+                    - generic [ref=e267]: Iced Berry Lemonade
+                    - generic [ref=e268]: Diffusore di Profumo
+                - generic [ref=e270]:
+                  - generic [ref=e271]: 11,94€
+                  - generic [ref=e272]: 19,90€
+              - button "Aggiungi al carrello" [ref=e275]:
+                - generic [ref=e276]: Aggiungi al carrello
+          - link "-30% no alt text inserted Yankee Candle Signature Reed Diffuser Pink Sands Diffusore di Profumo 13,93€ 19,90€ Non disponibile Avvisami" [ref=e277] [cursor=pointer]:
+            - /url: /products/healthcare-e-altro-pink-sands-1yc0000000480
+            - generic [ref=e278]:
+              - generic [ref=e279]:
+                - generic [ref=e282]: "-30%"
+                - button [ref=e283]:
+                  - img [ref=e284]
+              - img "no alt text inserted" [ref=e287]
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - generic [ref=e292]: Yankee Candle
+                  - generic [ref=e293]:
+                    - generic [ref=e294]: Signature Reed Diffuser
+                    - generic [ref=e295]: Pink Sands
+                    - generic [ref=e296]: Diffusore di Profumo
+                - generic [ref=e297]:
+                  - generic [ref=e298]:
+                    - generic [ref=e299]: 13,93€
+                    - generic [ref=e300]: 19,90€
+                  - paragraph [ref=e301]: Non disponibile
+              - button "Avvisami" [ref=e303]:
+                - generic [ref=e304]: Avvisami
+          - link "-30% no alt text inserted Yankee Candle Signature Reed Diffuser Reed Diffuser Sticks Accessori per Diffusori 2,73€ 3,90€ Aggiungi al carrello" [ref=e305] [cursor=pointer]:
+            - /url: /products/healthcare-e-altro-reed-diffuser-sticks-1yc0000000485
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - generic [ref=e310]: "-30%"
+                - button [ref=e311]:
+                  - img [ref=e312]
+              - img "no alt text inserted" [ref=e315]
+              - generic [ref=e318]:
+                - generic [ref=e319]:
+                  - generic [ref=e320]: Yankee Candle
+                  - generic [ref=e321]:
+                    - generic [ref=e322]: Signature Reed Diffuser
+                    - generic [ref=e323]: Reed Diffuser Sticks
+                    - generic [ref=e324]: Accessori per Diffusori
+                - generic [ref=e326]:
+                  - generic [ref=e327]: 2,73€
+                  - generic [ref=e328]: 3,90€
+              - button "Aggiungi al carrello" [ref=e331]:
+                - generic [ref=e332]: Aggiungi al carrello
+          - link "-30% no alt text inserted Yankee Candle Signature Reed Diffuser Iced Berry Lemonade - Refill Profumo per Diffusore 9,73€ 13,90€ Non disponibile Avvisami" [ref=e333] [cursor=pointer]:
+            - /url: /products/healthcare-e-altro-iced-berry-lemonade-refill-1yc0000000490
+            - generic [ref=e334]:
+              - generic [ref=e335]:
+                - generic [ref=e338]: "-30%"
+                - button [ref=e339]:
+                  - img [ref=e340]
+              - img "no alt text inserted" [ref=e343]
+              - generic [ref=e346]:
+                - generic [ref=e347]:
+                  - generic [ref=e348]: Yankee Candle
+                  - generic [ref=e349]:
+                    - generic [ref=e350]: Signature Reed Diffuser
+                    - generic [ref=e351]: Iced Berry Lemonade - Refill
+                    - generic [ref=e352]: Profumo per Diffusore
+                - generic [ref=e353]:
+                  - generic [ref=e354]:
+                    - generic [ref=e355]: 9,73€
+                    - generic [ref=e356]: 13,90€
+                  - paragraph [ref=e357]: Non disponibile
+              - button "Avvisami" [ref=e359]:
+                - generic [ref=e360]: Avvisami
+          - link "-35% no alt text inserted Al Haramain Aventure Détour Noir Eau de Parfum 34,50€ 53,08€ Non disponibile Avvisami" [ref=e361] [cursor=pointer]:
+            - /url: /products/profumi-detour-noir-3ah0000000004
+            - generic [ref=e362]:
+              - generic [ref=e363]:
+                - generic [ref=e366]: "-35%"
+                - button [ref=e367]:
+                  - img [ref=e368]
+              - img "no alt text inserted" [ref=e371]
+              - generic [ref=e374]:
+                - generic [ref=e375]:
+                  - generic [ref=e376]: Al Haramain
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Aventure
+                    - generic [ref=e379]: Détour Noir
+                    - generic [ref=e380]: Eau de Parfum
+                - generic [ref=e381]:
+                  - generic [ref=e382]:
+                    - generic [ref=e383]: 34,50€
+                    - generic [ref=e384]: 53,08€
+                  - paragraph [ref=e385]: Non disponibile
+              - button "Avvisami" [ref=e387]:
+                - generic [ref=e388]: Avvisami
+    - generic [ref=e390]:
+      - generic [ref=e391]:
+        - img "Image Spedizione gratuita" [ref=e392]
+        - generic [ref=e393]:
+          - paragraph [ref=e394]: Spedizione gratuita
+          - paragraph [ref=e395]: da 30€ di spesa!
+      - generic [ref=e396]:
+        - img "Image Ritiro in Beauty Store" [ref=e397]
+        - generic [ref=e398]:
+          - paragraph [ref=e399]: Ritiro in Beauty Store
+          - paragraph [ref=e400]: sempre gratuito!
+      - generic [ref=e401]:
+        - img "Image Campioncini omaggio" [ref=e402]
+        - generic [ref=e403]:
+          - paragraph [ref=e404]: Campioncini omaggio
+          - paragraph [ref=e405]: ad ogni acquisto!
+      - generic [ref=e406]:
+        - img "Image Assistenza clienti" [ref=e407]
+        - generic [ref=e408]:
+          - paragraph [ref=e409]: Assistenza clienti
+          - paragraph [ref=e410]: via mail o telefono!
+    - generic [ref=e412]:
+      - generic [ref=e413]:
+        - generic [ref=e414]:
+          - generic [ref=e415]: Hai bisogno di noi?
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - link "eshop@pinalli.it" [ref=e418] [cursor=pointer]:
+                - /url: mailto:eshop@pinalli.it
+              - link:
+                - /url: "tel: "
+              - link "Assistenza Whatsapp" [ref=e419] [cursor=pointer]:
+                - /url: https://api.whatsapp.com/send/?phone=%2B393357922943&text&type=phone_number&app_absent=0
+            - paragraph [ref=e420]: Da Lunedì a Venerdì
+            - paragraph [ref=e421]: 8:30 - 13:00 / 14:00 - 17:00
+        - button "Assistenza e Ordini" [ref=e424] [cursor=pointer]:
+          - generic [ref=e426]: Assistenza e Ordini
+          - img [ref=e430]
+        - button "Prodotti e Servizi" [ref=e434] [cursor=pointer]:
+          - generic [ref=e436]: Prodotti e Servizi
+          - img [ref=e440]
+        - button "Mondo Pinalli" [ref=e444] [cursor=pointer]:
+          - generic [ref=e446]: Mondo Pinalli
+          - img [ref=e450]
+        - generic [ref=e452]:
+          - generic [ref=e453]: Seguici su
+          - generic [ref=e454]:
+            - link "Logo Social" [ref=e455] [cursor=pointer]:
+              - /url: https://www.facebook.com/profumeriepinalli/
+              - img "Logo Social" [ref=e456]
+            - link "Logo Social" [ref=e457] [cursor=pointer]:
+              - /url: https://www.instagram.com/pinalli
+              - img "Logo Social" [ref=e458]
+            - link "Logo Social" [ref=e459] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pinalli_official
+              - img "Logo Social" [ref=e460]
+      - generic [ref=e461]:
+        - link "Clicca qui per verificare se questo sito è legale" [ref=e463] [cursor=pointer]:
+          - /url: https://www.salute.gov.it/LogoCommercioElettronico/CercaSitoEComm?useMode=getDettaglio&lingua=italiano&id=4402&area=farmaci&menu=online&VOLID=C015741
+          - img "Clicca qui per verificare se questo sito è legale" [ref=e464]
+        - generic [ref=e465]:
+          - img "Logo Pinalli" [ref=e467]
+          - generic [ref=e469]:
+            - img "Logo Pagamento" [ref=e470]
+            - img "Logo Pagamento" [ref=e471]
+            - img "Logo Pagamento" [ref=e472]
+            - img "Logo Pagamento" [ref=e473]
+            - img "Logo Pagamento" [ref=e474]
+            - img "Logo Pagamento" [ref=e475]
+            - img "Logo Pagamento" [ref=e476]
+            - img "Logo Pagamento" [ref=e477]
+            - img "Logo Pagamento" [ref=e478]
+            - img "Logo Pagamento" [ref=e479]
+          - generic [ref=e481]:
+            - link "Condizioni generali di vendita" [ref=e482] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-di-vendita
+            - link "Condizioni generali del programma fedeltà" [ref=e483] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/condizioni-generali-del-programma-fedelta
+            - link "Privacy policy" [ref=e484] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/privacy-policy
+            - link "Cookie policy" [ref=e485] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/cookie-policy
+            - link "Note legali" [ref=e486] [cursor=pointer]:
+              - /url: https://www.pinalli.it/pages/note-legali
+            - link "Mappa del sito" [ref=e487] [cursor=pointer]:
+              - /url: https://www.pinalli.it/sitemap
+            - link "Aggiorna Consensi Cookie" [ref=e488] [cursor=pointer]:
+              - /url: "#"
+      - paragraph [ref=e491]:
+        - text: "Pinalli s.r.l. Sede legale:"
+        - link "Via Nicola Piccinni n. 3, 20131 Milano (MI)" [ref=e492] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/RTAQJP6TaV7G51sZA
+        - text: "- Sede operativa:"
+        - link "Via Gandhi, 7, 29017 Fiorenzuola d'Arda PC" [ref=e493] [cursor=pointer]:
+          - /url: https://maps.app.goo.gl/45VadEpY26XRpFLT9
+        - text: "- Partita IVA / Codice Fiscale / Reg. Impr. 08836820962, i.v. R.E.A. MI 205215, Cap.Soc. € 2.400.000,00"
+  - alert [ref=e494]
+```
